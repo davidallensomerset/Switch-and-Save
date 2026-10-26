@@ -78,7 +78,9 @@
         "billing": "Free tier (1 active device) or discounted 2-year bundle",
         "best_for": "Families and non-technical users who want breach scanning & emergency access",
         "verdict": "Easiest interface for families switching from LastPass",
-        "url": "https://nordpass.com/"
+        "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=159309&url_id=9356",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
       }
     ]
   },
@@ -281,7 +283,9 @@
         "billing": "Basic / Plus / Complete tiers; 1-yr or 2-yr intro then higher renewal; 30-day money-back",
         "best_for": "People who want the most polished all-rounder for streaming and travel with minimal fiddling",
         "verdict": "Pros: fast NordLynx protocol, huge server network, reliable for iPlayer/Netflix, audited no-logs (Panama). Cons: aggressive upsells and renewal jump; 10-device cap; no free tier.",
-        "url": "https://nordvpn.com/"
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
       },
       {
         "name": "Surfshark",
