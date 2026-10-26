@@ -1,122 +1,260 @@
 [
-  {
-    "slug": "adobe-acrobat-alternatives",
-    "title": "5 Cheaper Alternatives to Adobe Acrobat Pro (UK & US 2026)",
-    "target_tool": "Adobe Acrobat Pro (£19.97/mo / $22.99/mo)",
-    "buyer_question": "What is the best cheap or one-off alternative to Adobe Acrobat Pro without early cancellation fees?",
-    "summary": "Side-by-side price and feature comparison for editing, signing, and OCR-scanning PDFs without getting locked into an annual Adobe contract.",
-    "updated": "2026-10-23",
-    "options": [
-      {
-        "name": "PDFgear",
-        "price_uk": "£0 (Free)",
-        "price_us": "$0 (Free)",
-        "billing": "Free desktop & mobile app",
-        "best_for": "Everyday PDF text editing, merging, and OCR at zero cost",
-        "verdict": "Best free replacement for 90% of home and small-office users",
-        "url": "https://www.pdfgear.com/"
-      },
-      {
-        "name": "UPDF",
-        "price_uk": "~£32/yr or ~£55 lifetime",
-        "price_us": "$39.99/yr or $69.99 lifetime",
-        "billing": "Annual or one-time perpetual licence (1 licence covers 4 devices)",
-        "best_for": "Cross-platform Mac/Windows/iOS users who want a one-time payment",
-        "verdict": "Best low-cost lifetime licence (Affiliate program: PartnerBoost / CJ)",
-        "url": "https://updf.com/"
-      },
-      {
-        "name": "PDF-XChange Editor",
-        "price_uk": "~£44 one-time",
-        "price_us": "$56 one-time",
-        "billing": "One-time perpetual licence",
-        "best_for": "Heavy Windows power users, Bates numbering, and fast OCR",
-        "verdict": "Fastest Windows desktop editor with no recurring subscription",
-        "url": "https://www.pdf-xchange.com/"
-      },
-      {
-        "name": "Foxit PDF Editor",
-        "price_uk": "~£109/yr",
-        "price_us": "$129.99/yr",
-        "billing": "Annual subscription (roughly half of Acrobat Pro)",
-        "best_for": "Business teams needing full Word-style ribbon layout and e-sign",
-        "verdict": "Closest 1:1 corporate replacement for Acrobat Pro",
-        "url": "https://www.foxit.com/"
-      }
-    ]
-  },
-  {
-    "slug": "password-manager-alternatives",
-    "title": "Cheaper Alternatives to 1Password & LastPass (UK & US 2026)",
-    "target_tool": "LastPass (£3/mo) & 1Password ($2.99–$4.99/mo)",
-    "buyer_question": "What should I switch to from LastPass or 1Password to save money and keep unlimited devices?",
-    "summary": "Compare audited password managers with 1-click vault import from LastPass, 1Password, and Dashlane.",
-    "updated": "2026-10-23",
-    "options": [
-      {
-        "name": "Bitwarden",
-        "price_uk": "£0 Free / ~£8/yr Premium",
-        "price_us": "$0 Free / $10/yr Premium",
-        "billing": "Free forever on unlimited devices, or $10/year for built-in 2FA TOTP",
-        "best_for": "Anyone wanting open-source security across unlimited phone + desktop devices",
-        "verdict": "Best overall value ($10/year vs $36–$60/year elsewhere)",
-        "url": "https://bitwarden.com/"
-      },
-      {
-        "name": "Proton Pass",
-        "price_uk": "£0 Free / ~£1.60/mo Plus",
-        "price_us": "$0 Free / $1.99/mo Plus",
-        "billing": "Free unlimited logins, or Plus for hide-my-email aliases & 2FA",
-        "best_for": "Privacy-focused users who also want disposable email aliases built in",
-        "verdict": "Best privacy upgrade + high-converting global affiliate program",
-        "url": "https://proton.me/pass"
-      },
-      {
-        "name": "NordPass",
-        "price_uk": "~£1.29/mo (2-yr plan)",
-        "price_us": "$1.49/mo (2-yr plan)",
-        "billing": "Free tier (1 active device) or discounted 2-year bundle",
-        "best_for": "Families and non-technical users who want breach scanning & emergency access",
-        "verdict": "Easiest interface for families switching from LastPass",
-        "url": "https://nordpass.com/"
-      }
-    ]
-  },
-  {
-    "slug": "evernote-alternatives",
-    "title": "Best Low-Cost Alternatives to Evernote After the Price Hike (2026)",
-    "target_tool": "Evernote Personal (£99.99/yr / $129.99/yr)",
-    "buyer_question": "How do I export my Evernote notebooks (.enex) to a cheaper or free note-taking app?",
-    "summary": "Direct .enex import options that cut your annual note-taking bill by 70–100% without losing web clips or attachments.",
-    "updated": "2026-10-23",
-    "options": [
-      {
-        "name": "UpNote",
-        "price_uk": "~£1.60/mo or ~£32 lifetime",
-        "price_us": "$1.99/mo or $39.99 lifetime",
-        "billing": "Monthly or one-time lifetime unlock across Mac, Windows, iOS, Android, Linux",
-        "best_for": "Former Evernote users who want the exact classic notebook + tag feel",
-        "verdict": "Closest classic Evernote feel for a one-off £32/$39.99 payment",
-        "url": "https://getupnote.com/"
-      },
-      {
-        "name": "Joplin",
-        "price_uk": "£0 (Free app) / ~£2.50/mo Cloud",
-        "price_us": "$0 (Free app) / $2.99/mo Cloud",
-        "billing": "100% free if synced via your own Dropbox/OneDrive, or optional Joplin Cloud",
-        "best_for": "Large .enex archives with thousands of PDFs and web clippings",
-        "verdict": "Best free .enex importer using your existing cloud storage",
-        "url": "https://joplinapp.org/"
-      },
-      {
-        "name": "Obsidian",
-        "price_uk": "£0 Local / ~£3.20/mo Sync",
-        "price_us": "$0 Local / $4/mo Sync",
-        "billing": "Free for personal & work use; optional official Sync add-on",
-        "best_for": "Plain-text Markdown longevity so you are never locked into a proprietary database again",
-        "verdict": "Best future-proof local files (works natively with official Importer plugin)",
-        "url": "https://obsidian.md/"
-      }
-    ]
-  }
+ {
+  "slug": "adobe-acrobat-alternatives",
+  "title": "5 Cheaper Alternatives to Adobe Acrobat Pro (UK & US 2026)",
+  "target_tool": "Adobe Acrobat Pro (£19.97/mo / $22.99/mo)",
+  "buyer_question": "What is the best cheap or one-off alternative to Adobe Acrobat Pro without early cancellation fees?",
+  "summary": "Side-by-side price and feature comparison for editing, signing, and OCR-scanning PDFs without getting locked into an annual Adobe contract.",
+  "updated": "2026-10-23",
+  "options": [
+   {
+    "name": "PDFgear",
+    "price_uk": "£0 (Free)",
+    "price_us": "$0 (Free)",
+    "billing": "Free desktop & mobile app",
+    "best_for": "Everyday PDF text editing, merging, and OCR at zero cost",
+    "verdict": "Best free replacement for 90% of home and small-office users",
+    "url": "https://www.pdfgear.com/"
+   },
+   {
+    "name": "UPDF",
+    "price_uk": "~£32/yr or ~£55 lifetime",
+    "price_us": "$39.99/yr or $69.99 lifetime",
+    "billing": "Annual or one-time perpetual licence (1 licence covers 4 devices)",
+    "best_for": "Cross-platform Mac/Windows/iOS users who want a one-time payment",
+    "verdict": "Best low-cost lifetime licence (Affiliate program: PartnerBoost / CJ)",
+    "url": "https://updf.com/"
+   },
+   {
+    "name": "PDF-XChange Editor",
+    "price_uk": "~£44 one-time",
+    "price_us": "$56 one-time",
+    "billing": "One-time perpetual licence",
+    "best_for": "Heavy Windows power users, Bates numbering, and fast OCR",
+    "verdict": "Fastest Windows desktop editor with no recurring subscription",
+    "url": "https://www.pdf-xchange.com/"
+   },
+   {
+    "name": "Foxit PDF Editor",
+    "price_uk": "~£109/yr",
+    "price_us": "$129.99/yr",
+    "billing": "Annual subscription (roughly half of Acrobat Pro)",
+    "best_for": "Business teams needing full Word-style ribbon layout and e-sign",
+    "verdict": "Closest 1:1 corporate replacement for Acrobat Pro",
+    "url": "https://www.foxit.com/"
+   }
+  ]
+ },
+ {
+  "slug": "password-manager-alternatives",
+  "title": "Cheaper Alternatives to 1Password & LastPass (UK & US 2026)",
+  "target_tool": "LastPass (£3/mo) & 1Password ($2.99–$4.99/mo)",
+  "buyer_question": "What should I switch to from LastPass or 1Password to save money and keep unlimited devices?",
+  "summary": "Compare audited password managers with 1-click vault import from LastPass, 1Password, and Dashlane.",
+  "updated": "2026-10-23",
+  "options": [
+   {
+    "name": "Bitwarden",
+    "price_uk": "£0 Free / ~£8/yr Premium",
+    "price_us": "$0 Free / $10/yr Premium",
+    "billing": "Free forever on unlimited devices, or $10/year for built-in 2FA TOTP",
+    "best_for": "Anyone wanting open-source security across unlimited phone + desktop devices",
+    "verdict": "Best overall value ($10/year vs $36–$60/year elsewhere)",
+    "url": "https://bitwarden.com/"
+   },
+   {
+    "name": "Proton Pass",
+    "price_uk": "£0 Free / ~£1.60/mo Plus",
+    "price_us": "$0 Free / $1.99/mo Plus",
+    "billing": "Free unlimited logins, or Plus for hide-my-email aliases & 2FA",
+    "best_for": "Privacy-focused users who also want disposable email aliases built in",
+    "verdict": "Best privacy upgrade + high-converting global affiliate program",
+    "url": "https://proton.me/pass"
+   },
+   {
+    "name": "NordPass",
+    "price_uk": "~£1.29/mo (2-yr plan)",
+    "price_us": "$1.49/mo (2-yr plan)",
+    "billing": "Free tier (1 active device) or discounted 2-year bundle",
+    "best_for": "Families and non-technical users who want breach scanning & emergency access",
+    "verdict": "Easiest interface for families switching from LastPass",
+    "url": "https://nordpass.com/"
+   }
+  ]
+ },
+ {
+  "slug": "evernote-alternatives",
+  "title": "Best Low-Cost Alternatives to Evernote After the Price Hike (2026)",
+  "target_tool": "Evernote Personal (£99.99/yr / $129.99/yr)",
+  "buyer_question": "How do I export my Evernote notebooks (.enex) to a cheaper or free note-taking app?",
+  "summary": "Direct .enex import options that cut your annual note-taking bill by 70–100% without losing web clips or attachments.",
+  "updated": "2026-10-23",
+  "options": [
+   {
+    "name": "UpNote",
+    "price_uk": "~£1.60/mo or ~£32 lifetime",
+    "price_us": "$1.99/mo or $39.99 lifetime",
+    "billing": "Monthly or one-time lifetime unlock across Mac, Windows, iOS, Android, Linux",
+    "best_for": "Former Evernote users who want the exact classic notebook + tag feel",
+    "verdict": "Closest classic Evernote feel for a one-off £32/$39.99 payment",
+    "url": "https://getupnote.com/"
+   },
+   {
+    "name": "Joplin",
+    "price_uk": "£0 (Free app) / ~£2.50/mo Cloud",
+    "price_us": "$0 (Free app) / $2.99/mo Cloud",
+    "billing": "100% free if synced via your own Dropbox/OneDrive, or optional Joplin Cloud",
+    "best_for": "Large .enex archives with thousands of PDFs and web clippings",
+    "verdict": "Best free .enex importer using your existing cloud storage",
+    "url": "https://joplinapp.org/"
+   },
+   {
+    "name": "Obsidian",
+    "price_uk": "£0 Local / ~£3.20/mo Sync",
+    "price_us": "$0 Local / $4/mo Sync",
+    "billing": "Free for personal & work use; optional official Sync add-on",
+    "best_for": "Plain-text Markdown longevity so you are never locked into a proprietary database again",
+    "verdict": "Best future-proof local files (works natively with official Importer plugin)",
+    "url": "https://obsidian.md/"
+   }
+  ]
+ },
+ {
+  "slug": "microsoft-365-alternatives",
+  "title": "Cheaper Alternatives to Microsoft 365 After the Price Rise (UK & US 2026)",
+  "target_tool": "Microsoft 365 Personal (~£84.99/yr / ~$99.99/yr)",
+  "buyer_question": "How do I stop paying for Microsoft 365 but still open and edit Word and Excel files?",
+  "summary": "Free and one-off options that open .docx and .xlsx files, so you can drop the yearly Microsoft 365 renewal without losing your documents.",
+  "updated": "2026-10-26",
+  "options": [
+   {
+    "name": "LibreOffice",
+    "price_uk": "£0 (Free)",
+    "price_us": "$0 (Free)",
+    "billing": "Free, open-source desktop suite for Windows, Mac and Linux",
+    "best_for": "Home users who mostly edit Word and Excel files offline",
+    "verdict": "Best free full desktop replacement",
+    "url": "https://www.libreoffice.org/"
+   },
+   {
+    "name": "ONLYOFFICE Desktop Editors",
+    "price_uk": "£0 (Free)",
+    "price_us": "$0 (Free)",
+    "billing": "Free desktop app",
+    "best_for": "People who want a familiar ribbon layout and strong .docx compatibility",
+    "verdict": "Closest look and feel to Microsoft Office for free",
+    "url": "https://www.onlyoffice.com/desktop.aspx"
+   },
+   {
+    "name": "Office Home 2024",
+    "price_uk": "~£149.99 one-time",
+    "price_us": "~$149.99 one-time",
+    "billing": "One-time licence for one PC or Mac, no subscription",
+    "best_for": "People who need genuine Word and Excel but hate renewals",
+    "verdict": "Pays for itself in under two years versus a subscription",
+    "url": "https://www.microsoft.com/microsoft-365/microsoft-office"
+   },
+   {
+    "name": "Google Docs & Sheets",
+    "price_uk": "£0 (Free with Google account)",
+    "price_us": "$0 (Free with Google account)",
+    "billing": "Free in the browser with 15GB shared storage",
+    "best_for": "Light editing and sharing documents with family or clients",
+    "verdict": "Best free option if you already use Gmail",
+    "url": "https://docs.google.com/"
+   }
+  ]
+ },
+ {
+  "slug": "dropbox-alternatives",
+  "title": "Cheaper Alternatives to Dropbox Plus, Including Lifetime Cloud Storage (2026)",
+  "target_tool": "Dropbox Plus (~£9.99/mo / ~$11.99/mo)",
+  "buyer_question": "What is a cheaper Dropbox alternative, ideally with a one-time lifetime price?",
+  "summary": "Monthly, yearly and lifetime cloud storage options that can cut a Dropbox bill or remove it for good.",
+  "updated": "2026-10-26",
+  "options": [
+   {
+    "name": "pCloud Lifetime",
+    "price_uk": "One-time lifetime plans (check current offer)",
+    "price_us": "One-time lifetime plans (check current offer)",
+    "billing": "Pay once for 500GB, 2TB or more; Swiss/EU data centre option",
+    "best_for": "People who want to stop paying monthly for storage forever",
+    "verdict": "Best lifetime cloud storage deal",
+    "url": "https://www.pcloud.com/"
+   },
+   {
+    "name": "Proton Drive",
+    "price_uk": "Free 5GB / paid plans monthly or yearly",
+    "price_us": "Free 5GB / paid plans monthly or yearly",
+    "billing": "Monthly or annual, end-to-end encrypted",
+    "best_for": "Privacy-first users, especially if already on Proton Mail or Pass",
+    "verdict": "Best encrypted alternative",
+    "url": "https://proton.me/drive"
+   },
+   {
+    "name": "Google One",
+    "price_uk": "From ~£1.59/mo (100GB)",
+    "price_us": "From ~$1.99/mo (100GB)",
+    "billing": "Monthly or annual, shared with up to 5 family members",
+    "best_for": "Android and Gmail users who need family sharing",
+    "verdict": "Cheapest for small amounts of storage",
+    "url": "https://one.google.com/"
+   },
+   {
+    "name": "Icedrive",
+    "price_uk": "Free 10GB / low-cost yearly and lifetime plans",
+    "price_us": "Free 10GB / low-cost yearly and lifetime plans",
+    "billing": "Annual or one-time lifetime",
+    "best_for": "Budget users who want a big free tier",
+    "verdict": "Best budget alternative with a lifetime option",
+    "url": "https://icedrive.net/"
+   }
+  ]
+ },
+ {
+  "slug": "canva-pro-alternatives",
+  "title": "Free and Cheaper Alternatives to Canva Pro (UK & US 2026)",
+  "target_tool": "Canva Pro (~£99.99/yr / ~$120/yr)",
+  "buyer_question": "Is there a free or cheaper alternative to Canva Pro for social posts and simple designs?",
+  "summary": "Free and low-cost design tools for social media graphics, thumbnails and print-on-demand designs without a yearly Canva Pro renewal.",
+  "updated": "2026-10-26",
+  "options": [
+   {
+    "name": "Canva Free",
+    "price_uk": "£0",
+    "price_us": "$0",
+    "billing": "Free plan, fewer premium templates and no Brand Kit",
+    "best_for": "People who only used a handful of Pro features",
+    "verdict": "Try downgrading first before switching tools",
+    "url": "https://www.canva.com/"
+   },
+   {
+    "name": "Affinity (by Canva)",
+    "price_uk": "£0 core app (check current terms)",
+    "price_us": "$0 core app (check current terms)",
+    "billing": "Free desktop app; some AI tools tied to Canva plans",
+    "best_for": "Pro-level photo editing, vector and layout work on desktop",
+    "verdict": "Best free professional-grade desktop editor",
+    "url": "https://www.affinity.studio/"
+   },
+   {
+    "name": "Adobe Express",
+    "price_uk": "Free plan / Premium monthly",
+    "price_us": "Free plan / Premium monthly",
+    "billing": "Free tier or monthly Premium",
+    "best_for": "Quick social posts and short videos with templates",
+    "verdict": "Closest template-driven alternative",
+    "url": "https://www.adobe.com/express/"
+   },
+   {
+    "name": "Photopea",
+    "price_uk": "£0 (ad-supported)",
+    "price_us": "$0 (ad-supported)",
+    "billing": "Free in the browser, optional ad-free upgrade",
+    "best_for": "Editing PSDs and layered images without installing anything",
+    "verdict": "Best free browser-based photo editor",
+    "url": "https://www.photopea.com/"
+   }
+  ]
+ }
 ]
