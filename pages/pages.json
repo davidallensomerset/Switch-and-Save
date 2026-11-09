@@ -1,541 +1,708 @@
 [
- {
-  "slug": "adobe-acrobat-alternatives",
-  "title": "5 Cheaper Alternatives to Adobe Acrobat Pro (UK & US 2026)",
-  "target_tool": "Adobe Acrobat Pro (£19.97/mo / $22.99/mo)",
-  "buyer_question": "What is the best cheap or one-off alternative to Adobe Acrobat Pro without early cancellation fees?",
-  "summary": "Side-by-side price and feature comparison for editing, signing, and OCR-scanning PDFs without getting locked into an annual Adobe contract.",
-  "updated": "2026-10-23",
-  "options": [
-   {
-    "name": "PDFgear",
-    "price_uk": "£0 (Free)",
-    "price_us": "$0 (Free)",
-    "billing": "Free desktop & mobile app",
-    "best_for": "Everyday PDF text editing, merging, and OCR at zero cost",
-    "verdict": "Best free replacement for 90% of home and small-office users",
-    "url": "https://www.pdfgear.com/"
-   },
-   {
-    "name": "UPDF",
-    "price_uk": "~£32/yr or ~£55 lifetime",
-    "price_us": "$39.99/yr or $69.99 lifetime",
-    "billing": "Annual or one-time perpetual licence (1 licence covers 4 devices)",
-    "best_for": "Cross-platform Mac/Windows/iOS users who want a one-time payment",
-    "verdict": "Best low-cost lifetime licence (Affiliate program: PartnerBoost / CJ)",
-    "url": "https://updf.com/"
-   },
-   {
-    "name": "PDF-XChange Editor",
-    "price_uk": "~£44 one-time",
-    "price_us": "$56 one-time",
-    "billing": "One-time perpetual licence",
-    "best_for": "Heavy Windows power users, Bates numbering, and fast OCR",
-    "verdict": "Fastest Windows desktop editor with no recurring subscription",
-    "url": "https://www.pdf-xchange.com/"
-   },
-   {
-    "name": "Foxit PDF Editor",
-    "price_uk": "~£109/yr",
-    "price_us": "$129.99/yr",
-    "billing": "Annual subscription (roughly half of Acrobat Pro)",
-    "best_for": "Business teams needing full Word-style ribbon layout and e-sign",
-    "verdict": "Closest 1:1 corporate replacement for Acrobat Pro",
-    "url": "https://www.foxit.com/"
-   }
-  ]
- },
- {
-  "slug": "password-manager-alternatives",
-  "title": "Cheaper Alternatives to 1Password & LastPass (UK & US 2026)",
-  "target_tool": "LastPass (£3/mo) & 1Password ($2.99–$4.99/mo)",
-  "buyer_question": "What should I switch to from LastPass or 1Password to save money and keep unlimited devices?",
-  "summary": "Compare audited password managers with 1-click vault import from LastPass, 1Password, and Dashlane.",
-  "updated": "2026-10-23",
-  "options": [
-   {
-    "name": "Bitwarden",
-    "price_uk": "£0 Free / ~£8/yr Premium",
-    "price_us": "$0 Free / $10/yr Premium",
-    "billing": "Free forever on unlimited devices, or $10/year for built-in 2FA TOTP",
-    "best_for": "Anyone wanting open-source security across unlimited phone + desktop devices",
-    "verdict": "Best overall value ($10/year vs $36–$60/year elsewhere)",
-    "url": "https://bitwarden.com/"
-   },
-   {
-    "name": "Proton Pass",
-    "price_uk": "£0 Free / ~£1.60/mo Plus",
-    "price_us": "$0 Free / $1.99/mo Plus",
-    "billing": "Free unlimited logins, or Plus for hide-my-email aliases & 2FA",
-    "best_for": "Privacy-focused users who also want disposable email aliases built in",
-    "verdict": "Best privacy upgrade + high-converting global affiliate program",
-    "url": "https://proton.me/pass"
-   },
-   {
-    "name": "NordPass",
-    "price_uk": "~£1.29/mo (2-yr plan)",
-    "price_us": "$1.49/mo (2-yr plan)",
-    "billing": "Free tier (1 active device) or discounted 2-year bundle",
-    "best_for": "Families and non-technical users who want breach scanning & emergency access",
-    "verdict": "Easiest interface for families switching from LastPass",
-    "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=159309&url_id=9356",
-    "rel": "sponsored nofollow noopener",
-    "target": "_blank"
-   }
-  ]
- },
- {
-  "slug": "evernote-alternatives",
-  "title": "Best Low-Cost Alternatives to Evernote After the Price Hike (2026)",
-  "target_tool": "Evernote Personal (£99.99/yr / $129.99/yr)",
-  "buyer_question": "How do I export my Evernote notebooks (.enex) to a cheaper or free note-taking app?",
-  "summary": "Direct .enex import options that cut your annual note-taking bill by 70–100% without losing web clips or attachments.",
-  "updated": "2026-10-23",
-  "options": [
-   {
-    "name": "UpNote",
-    "price_uk": "~£1.60/mo or ~£32 lifetime",
-    "price_us": "$1.99/mo or $39.99 lifetime",
-    "billing": "Monthly or one-time lifetime unlock across Mac, Windows, iOS, Android, Linux",
-    "best_for": "Former Evernote users who want the exact classic notebook + tag feel",
-    "verdict": "Closest classic Evernote feel for a one-off £32/$39.99 payment",
-    "url": "https://getupnote.com/"
-   },
-   {
-    "name": "Joplin",
-    "price_uk": "£0 (Free app) / ~£2.50/mo Cloud",
-    "price_us": "$0 (Free app) / $2.99/mo Cloud",
-    "billing": "100% free if synced via your own Dropbox/OneDrive, or optional Joplin Cloud",
-    "best_for": "Large .enex archives with thousands of PDFs and web clippings",
-    "verdict": "Best free .enex importer using your existing cloud storage",
-    "url": "https://joplinapp.org/"
-   },
-   {
-    "name": "Obsidian",
-    "price_uk": "£0 Local / ~£3.20/mo Sync",
-    "price_us": "$0 Local / $4/mo Sync",
-    "billing": "Free for personal & work use; optional official Sync add-on",
-    "best_for": "Plain-text Markdown longevity so you are never locked into a proprietary database again",
-    "verdict": "Best future-proof local files (works natively with official Importer plugin)",
-    "url": "https://obsidian.md/"
-   }
-  ]
- },
- {
-  "slug": "microsoft-365-alternatives",
-  "title": "Cheaper Alternatives to Microsoft 365 After the Price Rise (UK & US 2026)",
-  "target_tool": "Microsoft 365 Personal (~£84.99/yr / ~$99.99/yr)",
-  "buyer_question": "How do I stop paying for Microsoft 365 but still open and edit Word and Excel files?",
-  "summary": "Free and one-off options that open .docx and .xlsx files, so you can drop the yearly Microsoft 365 renewal without losing your documents.",
-  "updated": "2026-10-26",
-  "options": [
-   {
-    "name": "LibreOffice",
-    "price_uk": "£0 (Free)",
-    "price_us": "$0 (Free)",
-    "billing": "Free, open-source desktop suite for Windows, Mac and Linux",
-    "best_for": "Home users who mostly edit Word and Excel files offline",
-    "verdict": "Best free full desktop replacement",
-    "url": "https://www.libreoffice.org/"
-   },
-   {
-    "name": "ONLYOFFICE Desktop Editors",
-    "price_uk": "£0 (Free)",
-    "price_us": "$0 (Free)",
-    "billing": "Free desktop app",
-    "best_for": "People who want a familiar ribbon layout and strong .docx compatibility",
-    "verdict": "Closest look and feel to Microsoft Office for free",
-    "url": "https://www.onlyoffice.com/desktop.aspx"
-   },
-   {
-    "name": "Office Home 2024",
-    "price_uk": "~£149.99 one-time",
-    "price_us": "~$149.99 one-time",
-    "billing": "One-time licence for one PC or Mac, no subscription",
-    "best_for": "People who need genuine Word and Excel but hate renewals",
-    "verdict": "Pays for itself in under two years versus a subscription",
-    "url": "https://www.microsoft.com/microsoft-365/microsoft-office"
-   },
-   {
-    "name": "Google Docs & Sheets",
-    "price_uk": "£0 (Free with Google account)",
-    "price_us": "$0 (Free with Google account)",
-    "billing": "Free in the browser with 15GB shared storage",
-    "best_for": "Light editing and sharing documents with family or clients",
-    "verdict": "Best free option if you already use Gmail",
-    "url": "https://docs.google.com/"
-   }
-  ]
- },
- {
-  "slug": "dropbox-alternatives",
-  "title": "Cheaper Alternatives to Dropbox Plus, Including Lifetime Cloud Storage (2026)",
-  "target_tool": "Dropbox Plus (~£9.99/mo / ~$11.99/mo)",
-  "buyer_question": "What is a cheaper Dropbox alternative, ideally with a one-time lifetime price?",
-  "summary": "Monthly, yearly and lifetime cloud storage options that can cut a Dropbox bill or remove it for good.",
-  "updated": "2026-10-26",
-  "options": [
-   {
-    "name": "pCloud Lifetime",
-    "price_uk": "One-time lifetime plans (check current offer)",
-    "price_us": "One-time lifetime plans (check current offer)",
-    "billing": "Pay once for 500GB, 2TB or more; Swiss/EU data centre option",
-    "best_for": "People who want to stop paying monthly for storage forever",
-    "verdict": "Best lifetime cloud storage deal",
-    "url": "https://www.pcloud.com/"
-   },
-   {
-    "name": "Proton Drive",
-    "price_uk": "Free 5GB / paid plans monthly or yearly",
-    "price_us": "Free 5GB / paid plans monthly or yearly",
-    "billing": "Monthly or annual, end-to-end encrypted",
-    "best_for": "Privacy-first users, especially if already on Proton Mail or Pass",
-    "verdict": "Best encrypted alternative",
-    "url": "https://proton.me/drive"
-   },
-   {
-    "name": "Google One",
-    "price_uk": "From ~£1.59/mo (100GB)",
-    "price_us": "From ~$1.99/mo (100GB)",
-    "billing": "Monthly or annual, shared with up to 5 family members",
-    "best_for": "Android and Gmail users who need family sharing",
-    "verdict": "Cheapest for small amounts of storage",
-    "url": "https://one.google.com/"
-   },
-   {
-    "name": "Icedrive",
-    "price_uk": "Free 10GB / low-cost yearly and lifetime plans",
-    "price_us": "Free 10GB / low-cost yearly and lifetime plans",
-    "billing": "Annual or one-time lifetime",
-    "best_for": "Budget users who want a big free tier",
-    "verdict": "Best budget alternative with a lifetime option",
-    "url": "https://icedrive.net/"
-   }
-  ]
- },
- {
-  "slug": "canva-pro-alternatives",
-  "title": "Free and Cheaper Alternatives to Canva Pro (UK & US 2026)",
-  "target_tool": "Canva Pro (~£99.99/yr / ~$120/yr)",
-  "buyer_question": "Is there a free or cheaper alternative to Canva Pro for social posts and simple designs?",
-  "summary": "Free and low-cost design tools for social media graphics, thumbnails and print-on-demand designs without a yearly Canva Pro renewal.",
-  "updated": "2026-10-26",
-  "options": [
-   {
-    "name": "Canva Free",
-    "price_uk": "£0",
-    "price_us": "$0",
-    "billing": "Free plan, fewer premium templates and no Brand Kit",
-    "best_for": "People who only used a handful of Pro features",
-    "verdict": "Try downgrading first before switching tools",
-    "url": "https://www.canva.com/"
-   },
-   {
-    "name": "Affinity (by Canva)",
-    "price_uk": "£0 core app (check current terms)",
-    "price_us": "$0 core app (check current terms)",
-    "billing": "Free desktop app; some AI tools tied to Canva plans",
-    "best_for": "Pro-level photo editing, vector and layout work on desktop",
-    "verdict": "Best free professional-grade desktop editor",
-    "url": "https://www.affinity.studio/"
-   },
-   {
-    "name": "Adobe Express",
-    "price_uk": "Free plan / Premium monthly",
-    "price_us": "Free plan / Premium monthly",
-    "billing": "Free tier or monthly Premium",
-    "best_for": "Quick social posts and short videos with templates",
-    "verdict": "Closest template-driven alternative",
-    "url": "https://www.adobe.com/express/"
-   },
-   {
-    "name": "Photopea",
-    "price_uk": "£0 (ad-supported)",
-    "price_us": "$0 (ad-supported)",
-    "billing": "Free in the browser, optional ad-free upgrade",
-    "best_for": "Editing PSDs and layered images without installing anything",
-    "verdict": "Best free browser-based photo editor",
-    "url": "https://www.photopea.com/"
-   }
-  ]
- },
- {
-  "slug": "vpn-alternatives",
-  "title": "NordVPN & ExpressVPN alternatives (UK, 2026)",
-  "target_tool": "NordVPN / ExpressVPN (~£2–3/mo intro, ~£8–10/mo rolling)",
-  "buyer_question": "Which VPN gives me real privacy, a usable free option, and no nasty renewal jump compared with NordVPN or ExpressVPN?",
-  "summary": "Privacy-first comparison of five VPNs on price, renewal cost, logging audits and streaming. How to switch: buy the new VPN on its 30-day money-back window, test iPlayer/Netflix and speeds on your own devices, then turn off auto-renew on the old service before its renewal date (intro prices typically renew much higher). Prices approx, check current offer.",
-  "updated": "2026-10-26",
-  "options": [
-   {
-    "name": "Proton VPN",
-    "price_uk": "£0 free plan; Plus ~£2.39/mo on 2-yr plan (renews ~£67/yr) – approx, check current offer",
-    "price_us": "$0 free plan; Plus ~$4.49/mo on 2-yr plan – approx, check current offer",
-    "billing": "Unlimited-data free tier (1 device, no ads); Plus monthly, 1-yr or 2-yr; 30-day money-back; Proton Unlimited bundles Mail, Drive & Pass",
-    "best_for": "Privacy-conscious users who want a genuinely free plan to start, Swiss jurisdiction, and open-source apps with independently audited no-logs policy",
-    "verdict": "Top pick for privacy. Pros: only mainstream VPN with an unlimited-data free tier; Swiss-based; no-logs policy audited annually by Securitum since 2022; open-source, audited apps; Secure Core multi-hop; 10 devices on Plus; renewal price is lower than most rivals. Cons: free tier is 1 device with limited server choice and isn't meant for streaming; paid intro price slightly above Surfshark.",
-    "url": "https://protonvpn.com/"
-   },
-   {
-    "name": "NordVPN",
-    "price_uk": "~£2.59–3.11/mo on 2-yr plan – approx, check current offer",
-    "price_us": "~$3.39–4.99/mo on 2-yr plan – approx, check current offer",
-    "billing": "Basic / Plus / Complete tiers; 1-yr or 2-yr intro then higher renewal; 30-day money-back",
-    "best_for": "People who want the most polished all-rounder for streaming and travel with minimal fiddling",
-    "verdict": "Pros: fast NordLynx protocol, huge server network, reliable for iPlayer/Netflix, audited no-logs (Panama). Cons: aggressive upsells and renewal jump; 10-device cap; no free tier.",
-    "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
-    "rel": "sponsored nofollow noopener",
-    "target": "_blank"
-   },
-   {
-    "name": "Surfshark",
-    "price_uk": "~£1.49–2.15/mo on 2-yr plan – approx, check current offer",
-    "price_us": "~$1.99–2.49/mo on 2-yr plan – approx, check current offer",
-    "billing": "Starter / One / One+ tiers; long intro term + bonus months; 30-day money-back",
-    "best_for": "Households and families with lots of devices on a tight budget",
-    "verdict": "Pros: unlimited simultaneous devices, cheapest intro price, RAM-only servers, audited no-logs (Netherlands). Cons: renewal noticeably higher; owned by the same group as NordVPN, so not a true 'different company' switch.",
-    "url": "https://surfshark.com/"
-   },
-   {
-    "name": "Mullvad",
-    "price_uk": "Flat €5/mo (~£4.40) – approx, check current offer",
-    "price_us": "Flat €5/mo (~$5.50) – approx, check current offer",
-    "billing": "Flat monthly price, no contracts, no discounts or renewal hikes; pay by card, cash or crypto",
-    "best_for": "Privacy purists who want anonymous accounts (no email needed) and honest flat pricing",
-    "verdict": "Pros: account is just a random number, open-source apps, audited, Swedish, same price forever. Cons: dearer than long-term promos; only 5 devices; patchy for streaming; no money-back gimmicks or free tier.",
-    "url": "https://mullvad.net/"
-   },
-   {
-    "name": "ExpressVPN",
-    "price_uk": "Basic ~£1.99/mo on 28-mo plan; ~£9.99 rolling monthly – approx, check current offer",
-    "price_us": "Basic ~$2.79–4.99/mo on long plan; ~$12.99 monthly – approx, check current offer",
-    "billing": "Basic / Advanced / Pro tiers since 2025; long intro term then much higher renewal; 30-day money-back",
-    "best_for": "Existing users or less technical people who value very simple apps and strong streaming support",
-    "verdict": "Pros: very easy apps, Lightway protocol, good streaming, audited TrustedServer RAM-only tech. Cons: renewal price jumps sharply; rolling monthly is among the most expensive; tiering now splits features across plans.",
-    "url": "https://www.expressvpn.com/"
-   }
-  ]
- },
- {
-  "slug": "private-email-alternatives",
-  "title": "Private alternatives to Gmail & Outlook",
-  "target_tool": "Gmail / Outlook.com (free, ad- and data-funded; Google One / Microsoft 365 for extras)",
-  "buyer_question": "Which private, ad-free email service should I move to from Gmail or Outlook, and how hard is the switch?",
-  "summary": "Compares five privacy-focused email providers on encryption, price, custom domains and app support. How to switch: sign up, use the provider's import tool (Proton Easy Switch, Fastmail and Mailbox.org importers) to copy old mail and contacts, set Gmail/Outlook to auto-forward, then update logins on key accounts over a few weeks before closing the old inbox. Prices approx, check current offer.",
-  "updated": "2026-10-26",
-  "options": [
-   {
-    "name": "Proton Mail",
-    "price_uk": "£0 free plan; Mail Plus ~£3.99/mo billed yearly – approx, check current offer",
-    "price_us": "$0 free plan; Mail Plus ~$3.99/mo billed yearly ($4.99 monthly) – approx, check current offer",
-    "billing": "Free (1 GB); Mail Plus monthly or yearly; Proton Unlimited (~$9.99/mo yearly) adds VPN, Drive & Pass; 30-day money-back",
-    "best_for": "Most Gmail/Outlook switchers who want automatic end-to-end encryption, a free plan to try, and polished apps, from a Swiss provider",
-    "verdict": "Top pick. Pros: free plan; Swiss privacy law; zero-access encryption and E2EE between Proton users or via password-protected mail; open-source, audited apps; Easy Switch imports Gmail/Outlook mail, contacts and calendars; hide-my-email aliases; custom domain on paid plans; bundles with VPN, Drive and Pass. Cons: free tier only 1 GB; Outlook/Apple Mail access needs paid Bridge; full-text search is slower due to encryption.",
-    "url": "https://proton.me/mail"
-   },
-   {
-    "name": "Tuta",
-    "price_uk": "£0 free plan; Revolutionary ~€3/mo billed yearly (~£2.60) – approx, check current offer",
-    "price_us": "$0 free plan; Revolutionary ~€3/mo yearly (~$3.30) – approx, check current offer",
-    "billing": "Free (1 GB, personal use); Revolutionary / Legend paid tiers monthly or yearly",
-    "best_for": "Budget users wanting maximum encryption, including subject lines, calendar and contacts",
-    "verdict": "Pros: cheapest end-to-end encrypted option, encrypts subjects, post-quantum crypto, open-source, German. Cons: no IMAP or bridge, so only Tuta's own apps; no easy Gmail import tool for old mail; fewer integrations.",
-    "url": "https://tuta.com/"
-   },
-   {
-    "name": "Fastmail",
-    "price_uk": "Individual ~$5/mo billed yearly (~£4) – approx, check current offer",
-    "price_us": "Individual ~$5/mo yearly ($6 monthly) – approx, check current offer",
-    "billing": "30-day free trial, then monthly or yearly; Duo and Family plans available",
-    "best_for": "People who want a fast, ad-free Gmail replacement that works with any app, rather than heavy encryption",
-    "verdict": "Pros: excellent speed and search, full IMAP/JMAP, superb Gmail import, custom domains, masked email with 1Password. Cons: not end-to-end encrypted by design; Australian company; no free plan.",
-    "url": "https://www.fastmail.com/"
-   },
-   {
-    "name": "Mailbox.org",
-    "price_uk": "Light ~€1/mo; Standard ~€3/mo yearly (~£2.60) – approx, check current offer",
-    "price_us": "Light ~€1/mo; Standard ~€3/mo yearly (~$3.30) – approx, check current offer",
-    "billing": "30-day trial, then monthly or yearly; includes calendar, contacts, cloud storage and office apps",
-    "best_for": "Tinkerers who want a cheap, IMAP-friendly suite replacing Google Workspace basics, run from Germany",
-    "verdict": "Pros: very low price, full IMAP/POP, green energy, optional PGP via Guard, office suite included. Cons: E2EE requires setting up PGP yourself; interface feels dated; no free plan; custom domain needs Standard.",
-    "url": "https://mailbox.org/"
-   },
-   {
-    "name": "StartMail",
-    "price_uk": "Personal ~$4.99/mo billed yearly (~£4) – approx, check current offer",
-    "price_us": "Personal ~$4.99/mo yearly ($6.99 monthly) – approx, check current offer",
-    "billing": "7-day trial (card required), then monthly or yearly",
-    "best_for": "People who want unlimited disposable aliases to cut spam, with IMAP access, from the Startpage team",
-    "verdict": "Pros: unlimited aliases, PGP built in, IMAP/SMTP, Dutch (EU) privacy law, 1 custom domain. Cons: pricier than rivals; PGP-based rather than seamless E2EE; smaller feature set and apps.",
-    "url": "https://www.startmail.com/"
-   }
-  ]
- },
- {
-  "slug": "best-vpn-for-iphone",
-  "title": "Best VPN for iPhone (UK & US, 2026)",
-  "target_tool": "iPhone / iPad users choosing a VPN app (or replacing iCloud Private Relay, which only covers Safari)",
-  "buyer_question": "Which VPN app works best on an iPhone for public Wi-Fi, streaming and privacy, without a nasty renewal price?",
-  "summary": "Compares five VPN apps that work well on iOS on price, renewal cost, audited no-logs claims and iPhone-specific features. iCloud Private Relay (included with iCloud+) only protects Safari and some app traffic and can't change your country, so a full VPN is still needed for hotel or cafe Wi-Fi and streaming. How to set up: install from the App Store, allow the VPN profile, turn on auto-connect for untrusted Wi-Fi and the kill switch, and buy on the 30-day money-back window so you can test iPlayer/Netflix first. Prices approx, check current offer.",
-  "updated": "2026-11-02",
-  "options": [
-   {
-    "name": "NordVPN",
-    "price_uk": "~£2.59–3.11/mo on 2-yr plan, approx, check current offer",
-    "price_us": "~$3.39–4.99/mo on 2-yr plan, approx, check current offer",
-    "billing": "Basic / Plus / Complete tiers; 1-yr or 2-yr intro then higher renewal; 30-day money-back; in-app purchase or website",
-    "best_for": "iPhone users who want a polished app with auto-connect on public Wi-Fi, fast NordLynx speeds and reliable streaming abroad",
-    "verdict": "Strong all-rounder on iOS. Pros: clean iPhone app, NordLynx (WireGuard-based) is fast on mobile data, auto-connect on untrusted Wi-Fi, Threat Protection Lite blocks ads/trackers, independently audited no-logs policy, Plus tier adds NordPass password manager. Cons: no free tier; renewal price is noticeably higher than the intro deal; upsells in the app.",
-    "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
-    "rel": "sponsored nofollow noopener",
-    "target": "_blank"
-   },
-   {
-    "name": "Proton VPN",
-    "price_uk": "£0 free plan; Plus ~£2.39/mo on 2-yr plan, approx, check current offer",
-    "price_us": "$0 free plan; Plus ~$4.49/mo on 2-yr plan, approx, check current offer",
-    "billing": "Unlimited-data free tier (1 device); Plus monthly, 1-yr or 2-yr; 30-day money-back",
-    "best_for": "Anyone who wants to try a VPN on iPhone free first, with no data cap",
-    "verdict": "Best free option. Pros: unlimited-data free plan, Swiss privacy, open-source audited apps. Cons: free plan has limited server choice and isn't for streaming; paid intro price a little above budget rivals.",
-    "url": "https://protonvpn.com/"
-   },
-   {
-    "name": "Surfshark",
-    "price_uk": "~£1.70–2.50/mo on 2-yr plan, approx, check current offer",
-    "price_us": "~$1.99–3.19/mo on 2-yr plan, approx, check current offer",
-    "billing": "Starter / One / One+ tiers; intro then higher renewal; 30-day money-back",
-    "best_for": "Families or households with lots of iPhones and iPads, because there's no device limit",
-    "verdict": "Pros: unlimited devices, cheap intro price, good streaming. Cons: renewal jump; fewer independent audits than Proton or Nord.",
-    "url": "https://surfshark.com/"
-   },
-   {
-    "name": "ExpressVPN",
-    "price_uk": "~£3.50–5/mo on 2-yr plan, approx, check current offer",
-    "price_us": "~$4.99–6.67/mo on 2-yr plan, approx, check current offer",
-    "billing": "Basic / Advanced / Pro tiers; 30-day money-back",
-    "best_for": "People who want the simplest one-tap app and don't mind paying more",
-    "verdict": "Pros: very easy app, Lightway protocol fast on mobile, consistent streaming. Cons: among the priciest; fewer extras per pound.",
-    "url": "https://www.expressvpn.com/"
-   },
-   {
-    "name": "Mullvad",
-    "price_uk": "€5/mo flat (~£4.30), approx, check current offer",
-    "price_us": "€5/mo flat (~$5.40), approx, check current offer",
-    "billing": "Same price monthly, no long contracts and no renewal jump; account number instead of email",
-    "best_for": "Privacy purists who hate intro-price tricks and don't need streaming",
-    "verdict": "Pros: one honest flat price, no email needed, strong audits. Cons: weaker for streaming; no long-term discount.",
-    "url": "https://mullvad.net/"
-   }
-  ]
- },
- {
-  "slug": "adobe-creative-cloud-alternatives",
-  "title": "Adobe Creative Cloud alternatives (Photoshop, Illustrator, Premiere)",
-  "target_tool": "Adobe Creative Cloud (Photoshop / Illustrator / Premiere Pro; annual-plan early-cancellation fees)",
-  "buyer_question": "What can I use instead of Photoshop, Illustrator or Premiere Pro so I can cancel Creative Cloud without losing my workflow?",
-  "summary": "Compares five Creative Cloud replacements on price, file compatibility and which Adobe app each replaces. How to switch: check whether you're on Adobe's annual plan paid monthly (cancelling early can trigger a fee; cancelling within 14 days of renewal is usually fee-free), export working files to PSD/PDF/SVG first, try the alternatives side by side, then cancel and get written confirmation. Prices approx, check current offer.",
-  "updated": "2026-11-02",
-  "options": [
-   {
-    "name": "Affinity (by Canva)",
-    "price_uk": "£0, free download, approx, check current offer",
-    "price_us": "$0, free download, approx, check current offer",
-    "billing": "Free all-in-one photo, vector and layout app; optional paid Canva AI features",
-    "best_for": "Photoshop and Illustrator users who want pro desktop tools with PSD import for free",
-    "verdict": "Top pick. Pros: free, professional raster and vector tools in one app, opens PSD and AI/PDF files, works offline on Windows and Mac. Cons: some Photoshop plugins and actions don't carry over; AI extras tie into Canva.",
-    "url": "https://www.affinity.studio/"
-   },
-   {
-    "name": "DaVinci Resolve",
-    "price_uk": "£0 free version; Studio ~£250 one-off, approx, check current offer",
-    "price_us": "$0 free version; Studio ~$295 one-off, approx, check current offer",
-    "billing": "Free version with no watermark; Studio is a one-time licence",
-    "best_for": "Premiere Pro and After Effects users who edit, colour-grade or do audio",
-    "verdict": "Pros: free tier is genuinely professional, industry-standard colour grading, Fairlight audio and Fusion effects built in. Cons: wants a decent GPU; learning curve if you're used to Premiere.",
-    "url": "https://www.blackmagicdesign.com/products/davinciresolve"
-   },
-   {
-    "name": "Photopea",
-    "price_uk": "£0 with ads; Premium ~$5/mo (~£4), approx, check current offer",
-    "price_us": "$0 with ads; Premium ~$5/mo, approx, check current offer",
-    "billing": "Free in the browser; Premium removes ads",
-    "best_for": "Occasional Photoshop users who just need to open and edit PSDs in a browser",
-    "verdict": "Pros: runs in any browser, looks and works like Photoshop, opens PSD/XCF/Sketch. Cons: ads on free tier; slower with very large files.",
-    "url": "https://www.photopea.com/"
-   },
-   {
-    "name": "Apple Creator Studio / Pixelmator Pro",
-    "price_uk": "Creator Studio ~£12.99/mo bundle, or Pixelmator Pro one-off, approx, check current offer",
-    "price_us": "Creator Studio ~$12.99/mo bundle, approx, check current offer",
-    "billing": "Monthly or yearly subscription bundling Final Cut Pro, Logic Pro and Pixelmator Pro; Mac/iPad only",
-    "best_for": "Mac users who want Photoshop plus Premiere replacements in one cheaper bundle",
-    "verdict": "Pros: much cheaper than Creative Cloud All Apps, polished native apps, AI fill in Pixelmator Pro. Cons: Apple devices only; no Illustrator-grade vector tool.",
-    "url": "https://www.apple.com/"
-   },
-   {
-    "name": "GIMP + Inkscape",
-    "price_uk": "£0, open source, approx, check current offer",
-    "price_us": "$0, open source, approx, check current offer",
-    "billing": "Free forever, no account needed",
-    "best_for": "Budget users and Linux users who want free photo editing (GIMP) and vector work (Inkscape)",
-    "verdict": "Pros: completely free, cross-platform, large plugin community. Cons: interfaces feel dated; PSD support is partial.",
-    "url": "https://www.gimp.org/"
-   }
-  ]
- },
- {
-  "slug": "quickbooks-alternatives",
-  "title": "QuickBooks alternatives for UK & US small businesses",
-  "target_tool": "QuickBooks Online (regular price rises; many users on discounted intro pricing)",
-  "buyer_question": "Which accounting software is cheaper than QuickBooks for a sole trader or small business, and still handles Making Tax Digital (UK) or US tax?",
-  "summary": "Compares five QuickBooks Online alternatives on price, Making Tax Digital (MTD) support in the UK, and bank feeds. How to switch: export your chart of accounts, customers, suppliers and open invoices from QuickBooks, pick a switch date (ideally the start of a VAT quarter or financial year), import opening balances into the new tool or use its migration service, run both for one month, then cancel. Prices approx, check current offer.",
-  "updated": "2026-11-02",
-  "options": [
-   {
-    "name": "FreeAgent",
-    "price_uk": "£0 with a NatWest, RBS, Ulster or Mettle business account; otherwise from ~£19/mo, approx, check current offer",
-    "price_us": "UK-focused, not sold in the US",
-    "billing": "Free while you keep an eligible business bank account; otherwise monthly",
-    "best_for": "UK sole traders and small limited companies, especially if you already bank with NatWest, RBS, Ulster or Mettle",
-    "verdict": "Best UK value. Pros: free with eligible bank accounts, HMRC-recognised for MTD VAT and MTD Income Tax, Self Assessment filing built in. Cons: UK only; less suited to stock-heavy businesses.",
-    "url": "https://www.freeagent.com/"
-   },
-   {
-    "name": "Xero",
-    "price_uk": "From ~£16/mo (Ignite), approx, check current offer",
-    "price_us": "From ~$25/mo (Early), approx, check current offer",
-    "billing": "Monthly; frequent intro discounts; tiers by number of invoices and features",
-    "best_for": "Growing UK or US businesses that want the biggest app marketplace and accountant support",
-    "verdict": "Pros: huge integrations list, MTD compliant, most accountants know it. Cons: entry plan caps invoices; payroll and multi-currency cost extra.",
-    "url": "https://www.xero.com/"
-   },
-   {
-    "name": "Zoho Books",
-    "price_uk": "Free plan for small businesses under a revenue limit; paid from ~£10/mo, approx, check current offer",
-    "price_us": "Free plan under a revenue limit; paid from ~$15/mo, approx, check current offer",
-    "billing": "Free tier; paid monthly or yearly",
-    "best_for": "Very small businesses that want a free plan and are happy in the Zoho ecosystem",
-    "verdict": "Pros: genuine free tier, MTD VAT support in the UK, good invoicing. Cons: free plan has user and feature limits; best value only if you use other Zoho apps.",
-    "url": "https://www.zoho.com/books/"
-   },
-   {
-    "name": "Sage Accounting",
-    "price_uk": "From ~£15/mo, approx, check current offer",
-    "price_us": "From ~$10/mo, approx, check current offer",
-    "billing": "Monthly; regular intro discounts",
-    "best_for": "UK businesses that want a long-established British vendor with phone support",
-    "verdict": "Pros: MTD compliant, solid UK support, easy upgrade to payroll. Cons: interface less modern; intro discounts end.",
-    "url": "https://www.sage.com/en-gb/sage-business-cloud/accounting/"
-   },
-   {
-    "name": "Wave",
-    "price_uk": "Not aimed at UK users",
-    "price_us": "$0 Starter; Pro ~$16/mo, approx, check current offer",
-    "billing": "Free starter plan; pay per transaction for card payments",
-    "best_for": "US freelancers and side hustles who want free invoicing and bookkeeping",
-    "verdict": "Pros: free core accounting and invoicing in the US. Cons: US/Canada focus; bank feeds and receipts need Pro.",
-    "url": "https://www.waveapps.com/"
-   }
-  ]
- }
+  {
+    "slug": "adobe-acrobat-alternatives",
+    "title": "5 Cheaper Alternatives to Adobe Acrobat Pro (UK & US 2026)",
+    "target_tool": "Adobe Acrobat Pro (£19.97/mo / $22.99/mo)",
+    "buyer_question": "What is the best cheap or one-off alternative to Adobe Acrobat Pro without early cancellation fees?",
+    "summary": "Side-by-side price and feature comparison for editing, signing, and OCR-scanning PDFs without getting locked into an annual Adobe contract.",
+    "updated": "2026-10-23",
+    "options": [
+      {
+        "name": "PDFgear",
+        "price_uk": "£0 (Free)",
+        "price_us": "$0 (Free)",
+        "billing": "Free desktop & mobile app",
+        "best_for": "Everyday PDF text editing, merging, and OCR at zero cost",
+        "verdict": "Best free replacement for 90% of home and small-office users",
+        "url": "https://www.pdfgear.com/"
+      },
+      {
+        "name": "UPDF",
+        "price_uk": "~£32/yr or ~£55 lifetime",
+        "price_us": "$39.99/yr or $69.99 lifetime",
+        "billing": "Annual or one-time perpetual licence (1 licence covers 4 devices)",
+        "best_for": "Cross-platform Mac/Windows/iOS users who want a one-time payment",
+        "verdict": "Best low-cost lifetime licence (Affiliate program: PartnerBoost / CJ)",
+        "url": "https://updf.com/"
+      },
+      {
+        "name": "PDF-XChange Editor",
+        "price_uk": "~£44 one-time",
+        "price_us": "$56 one-time",
+        "billing": "One-time perpetual licence",
+        "best_for": "Heavy Windows power users, Bates numbering, and fast OCR",
+        "verdict": "Fastest Windows desktop editor with no recurring subscription",
+        "url": "https://www.pdf-xchange.com/"
+      },
+      {
+        "name": "Foxit PDF Editor",
+        "price_uk": "~£109/yr",
+        "price_us": "$129.99/yr",
+        "billing": "Annual subscription (roughly half of Acrobat Pro)",
+        "best_for": "Business teams needing full Word-style ribbon layout and e-sign",
+        "verdict": "Closest 1:1 corporate replacement for Acrobat Pro",
+        "url": "https://www.foxit.com/"
+      }
+    ]
+  },
+  {
+    "slug": "password-manager-alternatives",
+    "title": "Cheaper Alternatives to 1Password & LastPass (UK & US 2026)",
+    "target_tool": "LastPass (£3/mo) & 1Password ($2.99–$4.99/mo)",
+    "buyer_question": "What should I switch to from LastPass or 1Password to save money and keep unlimited devices?",
+    "summary": "Compare audited password managers with 1-click vault import from LastPass, 1Password, and Dashlane.",
+    "updated": "2026-10-23",
+    "options": [
+      {
+        "name": "Bitwarden",
+        "price_uk": "£0 Free / ~£8/yr Premium",
+        "price_us": "$0 Free / $10/yr Premium",
+        "billing": "Free forever on unlimited devices, or $10/year for built-in 2FA TOTP",
+        "best_for": "Anyone wanting open-source security across unlimited phone + desktop devices",
+        "verdict": "Best overall value ($10/year vs $36–$60/year elsewhere)",
+        "url": "https://bitwarden.com/"
+      },
+      {
+        "name": "Proton Pass",
+        "price_uk": "£0 Free / ~£1.60/mo Plus",
+        "price_us": "$0 Free / $1.99/mo Plus",
+        "billing": "Free unlimited logins, or Plus for hide-my-email aliases & 2FA",
+        "best_for": "Privacy-focused users who also want disposable email aliases built in",
+        "verdict": "Best privacy upgrade + high-converting global affiliate program",
+        "url": "https://proton.me/pass"
+      },
+      {
+        "name": "NordPass",
+        "price_uk": "~£1.29/mo (2-yr plan)",
+        "price_us": "$1.49/mo (2-yr plan)",
+        "billing": "Free tier (1 active device) or discounted 2-year bundle",
+        "best_for": "Families and non-technical users who want breach scanning & emergency access",
+        "verdict": "Easiest interface for families switching from LastPass",
+        "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=159309&url_id=9356",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "slug": "evernote-alternatives",
+    "title": "Best Low-Cost Alternatives to Evernote After the Price Hike (2026)",
+    "target_tool": "Evernote Personal (£99.99/yr / $129.99/yr)",
+    "buyer_question": "How do I export my Evernote notebooks (.enex) to a cheaper or free note-taking app?",
+    "summary": "Direct .enex import options that cut your annual note-taking bill by 70–100% without losing web clips or attachments.",
+    "updated": "2026-10-23",
+    "options": [
+      {
+        "name": "UpNote",
+        "price_uk": "~£1.60/mo or ~£32 lifetime",
+        "price_us": "$1.99/mo or $39.99 lifetime",
+        "billing": "Monthly or one-time lifetime unlock across Mac, Windows, iOS, Android, Linux",
+        "best_for": "Former Evernote users who want the exact classic notebook + tag feel",
+        "verdict": "Closest classic Evernote feel for a one-off £32/$39.99 payment",
+        "url": "https://getupnote.com/"
+      },
+      {
+        "name": "Joplin",
+        "price_uk": "£0 (Free app) / ~£2.50/mo Cloud",
+        "price_us": "$0 (Free app) / $2.99/mo Cloud",
+        "billing": "100% free if synced via your own Dropbox/OneDrive, or optional Joplin Cloud",
+        "best_for": "Large .enex archives with thousands of PDFs and web clippings",
+        "verdict": "Best free .enex importer using your existing cloud storage",
+        "url": "https://joplinapp.org/"
+      },
+      {
+        "name": "Obsidian",
+        "price_uk": "£0 Local / ~£3.20/mo Sync",
+        "price_us": "$0 Local / $4/mo Sync",
+        "billing": "Free for personal & work use; optional official Sync add-on",
+        "best_for": "Plain-text Markdown longevity so you are never locked into a proprietary database again",
+        "verdict": "Best future-proof local files (works natively with official Importer plugin)",
+        "url": "https://obsidian.md/"
+      }
+    ]
+  },
+  {
+    "slug": "microsoft-365-alternatives",
+    "title": "Cheaper Alternatives to Microsoft 365 After the Price Rise (UK & US 2026)",
+    "target_tool": "Microsoft 365 Personal (~£84.99/yr / ~$99.99/yr)",
+    "buyer_question": "How do I stop paying for Microsoft 365 but still open and edit Word and Excel files?",
+    "summary": "Free and one-off options that open .docx and .xlsx files, so you can drop the yearly Microsoft 365 renewal without losing your documents.",
+    "updated": "2026-10-26",
+    "options": [
+      {
+        "name": "LibreOffice",
+        "price_uk": "£0 (Free)",
+        "price_us": "$0 (Free)",
+        "billing": "Free, open-source desktop suite for Windows, Mac and Linux",
+        "best_for": "Home users who mostly edit Word and Excel files offline",
+        "verdict": "Best free full desktop replacement",
+        "url": "https://www.libreoffice.org/"
+      },
+      {
+        "name": "ONLYOFFICE Desktop Editors",
+        "price_uk": "£0 (Free)",
+        "price_us": "$0 (Free)",
+        "billing": "Free desktop app",
+        "best_for": "People who want a familiar ribbon layout and strong .docx compatibility",
+        "verdict": "Closest look and feel to Microsoft Office for free",
+        "url": "https://www.onlyoffice.com/desktop.aspx"
+      },
+      {
+        "name": "Office Home 2024",
+        "price_uk": "~£149.99 one-time",
+        "price_us": "~$149.99 one-time",
+        "billing": "One-time licence for one PC or Mac, no subscription",
+        "best_for": "People who need genuine Word and Excel but hate renewals",
+        "verdict": "Pays for itself in under two years versus a subscription",
+        "url": "https://www.microsoft.com/microsoft-365/microsoft-office"
+      },
+      {
+        "name": "Google Docs & Sheets",
+        "price_uk": "£0 (Free with Google account)",
+        "price_us": "$0 (Free with Google account)",
+        "billing": "Free in the browser with 15GB shared storage",
+        "best_for": "Light editing and sharing documents with family or clients",
+        "verdict": "Best free option if you already use Gmail",
+        "url": "https://docs.google.com/"
+      }
+    ]
+  },
+  {
+    "slug": "dropbox-alternatives",
+    "title": "Cheaper Alternatives to Dropbox Plus, Including Lifetime Cloud Storage (2026)",
+    "target_tool": "Dropbox Plus (~£9.99/mo / ~$11.99/mo)",
+    "buyer_question": "What is a cheaper Dropbox alternative, ideally with a one-time lifetime price?",
+    "summary": "Monthly, yearly and lifetime cloud storage options that can cut a Dropbox bill or remove it for good.",
+    "updated": "2026-10-26",
+    "options": [
+      {
+        "name": "pCloud Lifetime",
+        "price_uk": "One-time lifetime plans (check current offer)",
+        "price_us": "One-time lifetime plans (check current offer)",
+        "billing": "Pay once for 500GB, 2TB or more; Swiss/EU data centre option",
+        "best_for": "People who want to stop paying monthly for storage forever",
+        "verdict": "Best lifetime cloud storage deal",
+        "url": "https://www.pcloud.com/"
+      },
+      {
+        "name": "Proton Drive",
+        "price_uk": "Free 5GB / paid plans monthly or yearly",
+        "price_us": "Free 5GB / paid plans monthly or yearly",
+        "billing": "Monthly or annual, end-to-end encrypted",
+        "best_for": "Privacy-first users, especially if already on Proton Mail or Pass",
+        "verdict": "Best encrypted alternative",
+        "url": "https://proton.me/drive"
+      },
+      {
+        "name": "Google One",
+        "price_uk": "From ~£1.59/mo (100GB)",
+        "price_us": "From ~$1.99/mo (100GB)",
+        "billing": "Monthly or annual, shared with up to 5 family members",
+        "best_for": "Android and Gmail users who need family sharing",
+        "verdict": "Cheapest for small amounts of storage",
+        "url": "https://one.google.com/"
+      },
+      {
+        "name": "Icedrive",
+        "price_uk": "Free 10GB / low-cost yearly and lifetime plans",
+        "price_us": "Free 10GB / low-cost yearly and lifetime plans",
+        "billing": "Annual or one-time lifetime",
+        "best_for": "Budget users who want a big free tier",
+        "verdict": "Best budget alternative with a lifetime option",
+        "url": "https://icedrive.net/"
+      }
+    ]
+  },
+  {
+    "slug": "canva-pro-alternatives",
+    "title": "Free and Cheaper Alternatives to Canva Pro (UK & US 2026)",
+    "target_tool": "Canva Pro (~£99.99/yr / ~$120/yr)",
+    "buyer_question": "Is there a free or cheaper alternative to Canva Pro for social posts and simple designs?",
+    "summary": "Free and low-cost design tools for social media graphics, thumbnails and print-on-demand designs without a yearly Canva Pro renewal.",
+    "updated": "2026-10-26",
+    "options": [
+      {
+        "name": "Canva Free",
+        "price_uk": "£0",
+        "price_us": "$0",
+        "billing": "Free plan, fewer premium templates and no Brand Kit",
+        "best_for": "People who only used a handful of Pro features",
+        "verdict": "Try downgrading first before switching tools",
+        "url": "https://www.canva.com/"
+      },
+      {
+        "name": "Affinity (by Canva)",
+        "price_uk": "£0 core app (check current terms)",
+        "price_us": "$0 core app (check current terms)",
+        "billing": "Free desktop app; some AI tools tied to Canva plans",
+        "best_for": "Pro-level photo editing, vector and layout work on desktop",
+        "verdict": "Best free professional-grade desktop editor",
+        "url": "https://www.affinity.studio/"
+      },
+      {
+        "name": "Adobe Express",
+        "price_uk": "Free plan / Premium monthly",
+        "price_us": "Free plan / Premium monthly",
+        "billing": "Free tier or monthly Premium",
+        "best_for": "Quick social posts and short videos with templates",
+        "verdict": "Closest template-driven alternative",
+        "url": "https://www.adobe.com/express/"
+      },
+      {
+        "name": "Photopea",
+        "price_uk": "£0 (ad-supported)",
+        "price_us": "$0 (ad-supported)",
+        "billing": "Free in the browser, optional ad-free upgrade",
+        "best_for": "Editing PSDs and layered images without installing anything",
+        "verdict": "Best free browser-based photo editor",
+        "url": "https://www.photopea.com/"
+      }
+    ]
+  },
+  {
+    "slug": "vpn-alternatives",
+    "title": "NordVPN & ExpressVPN alternatives (UK, 2026)",
+    "target_tool": "NordVPN / ExpressVPN (~£2–3/mo intro, ~£8–10/mo rolling)",
+    "buyer_question": "Which VPN gives me real privacy, a usable free option, and no nasty renewal jump compared with NordVPN or ExpressVPN?",
+    "summary": "Privacy-first comparison of five VPNs on price, renewal cost, logging audits and streaming. How to switch: buy the new VPN on its 30-day money-back window, test iPlayer/Netflix and speeds on your own devices, then turn off auto-renew on the old service before its renewal date (intro prices typically renew much higher). Prices approx, check current offer.",
+    "updated": "2026-10-26",
+    "options": [
+      {
+        "name": "Proton VPN",
+        "price_uk": "£0 free plan; Plus ~£2.39/mo on 2-yr plan (renews ~£67/yr) – approx, check current offer",
+        "price_us": "$0 free plan; Plus ~$4.49/mo on 2-yr plan – approx, check current offer",
+        "billing": "Unlimited-data free tier (1 device, no ads); Plus monthly, 1-yr or 2-yr; 30-day money-back; Proton Unlimited bundles Mail, Drive & Pass",
+        "best_for": "Privacy-conscious users who want a genuinely free plan to start, Swiss jurisdiction, and open-source apps with independently audited no-logs policy",
+        "verdict": "Top pick for privacy. Pros: only mainstream VPN with an unlimited-data free tier; Swiss-based; no-logs policy audited annually by Securitum since 2022; open-source, audited apps; Secure Core multi-hop; 10 devices on Plus; renewal price is lower than most rivals. Cons: free tier is 1 device with limited server choice and isn't meant for streaming; paid intro price slightly above Surfshark.",
+        "url": "https://protonvpn.com/"
+      },
+      {
+        "name": "NordVPN",
+        "price_uk": "~£2.59–3.11/mo on 2-yr plan – approx, check current offer",
+        "price_us": "~$3.39–4.99/mo on 2-yr plan – approx, check current offer",
+        "billing": "Basic / Plus / Complete tiers; 1-yr or 2-yr intro then higher renewal; 30-day money-back",
+        "best_for": "People who want the most polished all-rounder for streaming and travel with minimal fiddling",
+        "verdict": "Pros: fast NordLynx protocol, huge server network, reliable for iPlayer/Netflix, audited no-logs (Panama). Cons: aggressive upsells and renewal jump; 10-device cap; no free tier.",
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      },
+      {
+        "name": "Surfshark",
+        "price_uk": "~£1.49–2.15/mo on 2-yr plan – approx, check current offer",
+        "price_us": "~$1.99–2.49/mo on 2-yr plan – approx, check current offer",
+        "billing": "Starter / One / One+ tiers; long intro term + bonus months; 30-day money-back",
+        "best_for": "Households and families with lots of devices on a tight budget",
+        "verdict": "Pros: unlimited simultaneous devices, cheapest intro price, RAM-only servers, audited no-logs (Netherlands). Cons: renewal noticeably higher; owned by the same group as NordVPN, so not a true 'different company' switch.",
+        "url": "https://surfshark.com/"
+      },
+      {
+        "name": "Mullvad",
+        "price_uk": "Flat €5/mo (~£4.40) – approx, check current offer",
+        "price_us": "Flat €5/mo (~$5.50) – approx, check current offer",
+        "billing": "Flat monthly price, no contracts, no discounts or renewal hikes; pay by card, cash or crypto",
+        "best_for": "Privacy purists who want anonymous accounts (no email needed) and honest flat pricing",
+        "verdict": "Pros: account is just a random number, open-source apps, audited, Swedish, same price forever. Cons: dearer than long-term promos; only 5 devices; patchy for streaming; no money-back gimmicks or free tier.",
+        "url": "https://mullvad.net/"
+      },
+      {
+        "name": "ExpressVPN",
+        "price_uk": "Basic ~£1.99/mo on 28-mo plan; ~£9.99 rolling monthly – approx, check current offer",
+        "price_us": "Basic ~$2.79–4.99/mo on long plan; ~$12.99 monthly – approx, check current offer",
+        "billing": "Basic / Advanced / Pro tiers since 2025; long intro term then much higher renewal; 30-day money-back",
+        "best_for": "Existing users or less technical people who value very simple apps and strong streaming support",
+        "verdict": "Pros: very easy apps, Lightway protocol, good streaming, audited TrustedServer RAM-only tech. Cons: renewal price jumps sharply; rolling monthly is among the most expensive; tiering now splits features across plans.",
+        "url": "https://www.expressvpn.com/"
+      }
+    ]
+  },
+  {
+    "slug": "private-email-alternatives",
+    "title": "Private alternatives to Gmail & Outlook",
+    "target_tool": "Gmail / Outlook.com (free, ad- and data-funded; Google One / Microsoft 365 for extras)",
+    "buyer_question": "Which private, ad-free email service should I move to from Gmail or Outlook, and how hard is the switch?",
+    "summary": "Compares five privacy-focused email providers on encryption, price, custom domains and app support. How to switch: sign up, use the provider's import tool (Proton Easy Switch, Fastmail and Mailbox.org importers) to copy old mail and contacts, set Gmail/Outlook to auto-forward, then update logins on key accounts over a few weeks before closing the old inbox. Prices approx, check current offer.",
+    "updated": "2026-10-26",
+    "options": [
+      {
+        "name": "Proton Mail",
+        "price_uk": "£0 free plan; Mail Plus ~£3.99/mo billed yearly – approx, check current offer",
+        "price_us": "$0 free plan; Mail Plus ~$3.99/mo billed yearly ($4.99 monthly) – approx, check current offer",
+        "billing": "Free (1 GB); Mail Plus monthly or yearly; Proton Unlimited (~$9.99/mo yearly) adds VPN, Drive & Pass; 30-day money-back",
+        "best_for": "Most Gmail/Outlook switchers who want automatic end-to-end encryption, a free plan to try, and polished apps, from a Swiss provider",
+        "verdict": "Top pick. Pros: free plan; Swiss privacy law; zero-access encryption and E2EE between Proton users or via password-protected mail; open-source, audited apps; Easy Switch imports Gmail/Outlook mail, contacts and calendars; hide-my-email aliases; custom domain on paid plans; bundles with VPN, Drive and Pass. Cons: free tier only 1 GB; Outlook/Apple Mail access needs paid Bridge; full-text search is slower due to encryption.",
+        "url": "https://proton.me/mail"
+      },
+      {
+        "name": "Tuta",
+        "price_uk": "£0 free plan; Revolutionary ~€3/mo billed yearly (~£2.60) – approx, check current offer",
+        "price_us": "$0 free plan; Revolutionary ~€3/mo yearly (~$3.30) – approx, check current offer",
+        "billing": "Free (1 GB, personal use); Revolutionary / Legend paid tiers monthly or yearly",
+        "best_for": "Budget users wanting maximum encryption, including subject lines, calendar and contacts",
+        "verdict": "Pros: cheapest end-to-end encrypted option, encrypts subjects, post-quantum crypto, open-source, German. Cons: no IMAP or bridge, so only Tuta's own apps; no easy Gmail import tool for old mail; fewer integrations.",
+        "url": "https://tuta.com/"
+      },
+      {
+        "name": "Fastmail",
+        "price_uk": "Individual ~$5/mo billed yearly (~£4) – approx, check current offer",
+        "price_us": "Individual ~$5/mo yearly ($6 monthly) – approx, check current offer",
+        "billing": "30-day free trial, then monthly or yearly; Duo and Family plans available",
+        "best_for": "People who want a fast, ad-free Gmail replacement that works with any app, rather than heavy encryption",
+        "verdict": "Pros: excellent speed and search, full IMAP/JMAP, superb Gmail import, custom domains, masked email with 1Password. Cons: not end-to-end encrypted by design; Australian company; no free plan.",
+        "url": "https://www.fastmail.com/"
+      },
+      {
+        "name": "Mailbox.org",
+        "price_uk": "Light ~€1/mo; Standard ~€3/mo yearly (~£2.60) – approx, check current offer",
+        "price_us": "Light ~€1/mo; Standard ~€3/mo yearly (~$3.30) – approx, check current offer",
+        "billing": "30-day trial, then monthly or yearly; includes calendar, contacts, cloud storage and office apps",
+        "best_for": "Tinkerers who want a cheap, IMAP-friendly suite replacing Google Workspace basics, run from Germany",
+        "verdict": "Pros: very low price, full IMAP/POP, green energy, optional PGP via Guard, office suite included. Cons: E2EE requires setting up PGP yourself; interface feels dated; no free plan; custom domain needs Standard.",
+        "url": "https://mailbox.org/"
+      },
+      {
+        "name": "StartMail",
+        "price_uk": "Personal ~$4.99/mo billed yearly (~£4) – approx, check current offer",
+        "price_us": "Personal ~$4.99/mo yearly ($6.99 monthly) – approx, check current offer",
+        "billing": "7-day trial (card required), then monthly or yearly",
+        "best_for": "People who want unlimited disposable aliases to cut spam, with IMAP access, from the Startpage team",
+        "verdict": "Pros: unlimited aliases, PGP built in, IMAP/SMTP, Dutch (EU) privacy law, 1 custom domain. Cons: pricier than rivals; PGP-based rather than seamless E2EE; smaller feature set and apps.",
+        "url": "https://www.startmail.com/"
+      }
+    ]
+  },
+  {
+    "slug": "best-vpn-for-iphone",
+    "title": "Best VPN for iPhone (UK & US, 2026)",
+    "target_tool": "iPhone / iPad users choosing a VPN app (or replacing iCloud Private Relay, which only covers Safari)",
+    "buyer_question": "Which VPN app works best on an iPhone for public Wi-Fi, streaming and privacy, without a nasty renewal price?",
+    "summary": "Compares five VPN apps that work well on iOS on price, renewal cost, audited no-logs claims and iPhone-specific features. iCloud Private Relay (included with iCloud+) only protects Safari and some app traffic and can't change your country, so a full VPN is still needed for hotel or cafe Wi-Fi and streaming. How to set up: install from the App Store, allow the VPN profile, turn on auto-connect for untrusted Wi-Fi and the kill switch, and buy on the 30-day money-back window so you can test iPlayer/Netflix first. Prices approx, check current offer.",
+    "updated": "2026-11-02",
+    "options": [
+      {
+        "name": "NordVPN",
+        "price_uk": "~£2.59–3.11/mo on 2-yr plan, approx, check current offer",
+        "price_us": "~$3.39–4.99/mo on 2-yr plan, approx, check current offer",
+        "billing": "Basic / Plus / Complete tiers; 1-yr or 2-yr intro then higher renewal; 30-day money-back; in-app purchase or website",
+        "best_for": "iPhone users who want a polished app with auto-connect on public Wi-Fi, fast NordLynx speeds and reliable streaming abroad",
+        "verdict": "Strong all-rounder on iOS. Pros: clean iPhone app, NordLynx (WireGuard-based) is fast on mobile data, auto-connect on untrusted Wi-Fi, Threat Protection Lite blocks ads/trackers, independently audited no-logs policy, Plus tier adds NordPass password manager. Cons: no free tier; renewal price is noticeably higher than the intro deal; upsells in the app.",
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      },
+      {
+        "name": "Proton VPN",
+        "price_uk": "£0 free plan; Plus ~£2.39/mo on 2-yr plan, approx, check current offer",
+        "price_us": "$0 free plan; Plus ~$4.49/mo on 2-yr plan, approx, check current offer",
+        "billing": "Unlimited-data free tier (1 device); Plus monthly, 1-yr or 2-yr; 30-day money-back",
+        "best_for": "Anyone who wants to try a VPN on iPhone free first, with no data cap",
+        "verdict": "Best free option. Pros: unlimited-data free plan, Swiss privacy, open-source audited apps. Cons: free plan has limited server choice and isn't for streaming; paid intro price a little above budget rivals.",
+        "url": "https://protonvpn.com/"
+      },
+      {
+        "name": "Surfshark",
+        "price_uk": "~£1.70–2.50/mo on 2-yr plan, approx, check current offer",
+        "price_us": "~$1.99–3.19/mo on 2-yr plan, approx, check current offer",
+        "billing": "Starter / One / One+ tiers; intro then higher renewal; 30-day money-back",
+        "best_for": "Families or households with lots of iPhones and iPads, because there's no device limit",
+        "verdict": "Pros: unlimited devices, cheap intro price, good streaming. Cons: renewal jump; fewer independent audits than Proton or Nord.",
+        "url": "https://surfshark.com/"
+      },
+      {
+        "name": "ExpressVPN",
+        "price_uk": "~£3.50–5/mo on 2-yr plan, approx, check current offer",
+        "price_us": "~$4.99–6.67/mo on 2-yr plan, approx, check current offer",
+        "billing": "Basic / Advanced / Pro tiers; 30-day money-back",
+        "best_for": "People who want the simplest one-tap app and don't mind paying more",
+        "verdict": "Pros: very easy app, Lightway protocol fast on mobile, consistent streaming. Cons: among the priciest; fewer extras per pound.",
+        "url": "https://www.expressvpn.com/"
+      },
+      {
+        "name": "Mullvad",
+        "price_uk": "€5/mo flat (~£4.30), approx, check current offer",
+        "price_us": "€5/mo flat (~$5.40), approx, check current offer",
+        "billing": "Same price monthly, no long contracts and no renewal jump; account number instead of email",
+        "best_for": "Privacy purists who hate intro-price tricks and don't need streaming",
+        "verdict": "Pros: one honest flat price, no email needed, strong audits. Cons: weaker for streaming; no long-term discount.",
+        "url": "https://mullvad.net/"
+      }
+    ]
+  },
+  {
+    "slug": "adobe-creative-cloud-alternatives",
+    "title": "Adobe Creative Cloud alternatives (Photoshop, Illustrator, Premiere)",
+    "target_tool": "Adobe Creative Cloud (Photoshop / Illustrator / Premiere Pro; annual-plan early-cancellation fees)",
+    "buyer_question": "What can I use instead of Photoshop, Illustrator or Premiere Pro so I can cancel Creative Cloud without losing my workflow?",
+    "summary": "Compares five Creative Cloud replacements on price, file compatibility and which Adobe app each replaces. How to switch: check whether you're on Adobe's annual plan paid monthly (cancelling early can trigger a fee; cancelling within 14 days of renewal is usually fee-free), export working files to PSD/PDF/SVG first, try the alternatives side by side, then cancel and get written confirmation. Prices approx, check current offer.",
+    "updated": "2026-11-02",
+    "options": [
+      {
+        "name": "Affinity (by Canva)",
+        "price_uk": "£0, free download, approx, check current offer",
+        "price_us": "$0, free download, approx, check current offer",
+        "billing": "Free all-in-one photo, vector and layout app; optional paid Canva AI features",
+        "best_for": "Photoshop and Illustrator users who want pro desktop tools with PSD import for free",
+        "verdict": "Top pick. Pros: free, professional raster and vector tools in one app, opens PSD and AI/PDF files, works offline on Windows and Mac. Cons: some Photoshop plugins and actions don't carry over; AI extras tie into Canva.",
+        "url": "https://www.affinity.studio/"
+      },
+      {
+        "name": "DaVinci Resolve",
+        "price_uk": "£0 free version; Studio ~£250 one-off, approx, check current offer",
+        "price_us": "$0 free version; Studio ~$295 one-off, approx, check current offer",
+        "billing": "Free version with no watermark; Studio is a one-time licence",
+        "best_for": "Premiere Pro and After Effects users who edit, colour-grade or do audio",
+        "verdict": "Pros: free tier is genuinely professional, industry-standard colour grading, Fairlight audio and Fusion effects built in. Cons: wants a decent GPU; learning curve if you're used to Premiere.",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+      },
+      {
+        "name": "Photopea",
+        "price_uk": "£0 with ads; Premium ~$5/mo (~£4), approx, check current offer",
+        "price_us": "$0 with ads; Premium ~$5/mo, approx, check current offer",
+        "billing": "Free in the browser; Premium removes ads",
+        "best_for": "Occasional Photoshop users who just need to open and edit PSDs in a browser",
+        "verdict": "Pros: runs in any browser, looks and works like Photoshop, opens PSD/XCF/Sketch. Cons: ads on free tier; slower with very large files.",
+        "url": "https://www.photopea.com/"
+      },
+      {
+        "name": "Apple Creator Studio / Pixelmator Pro",
+        "price_uk": "Creator Studio ~£12.99/mo bundle, or Pixelmator Pro one-off, approx, check current offer",
+        "price_us": "Creator Studio ~$12.99/mo bundle, approx, check current offer",
+        "billing": "Monthly or yearly subscription bundling Final Cut Pro, Logic Pro and Pixelmator Pro; Mac/iPad only",
+        "best_for": "Mac users who want Photoshop plus Premiere replacements in one cheaper bundle",
+        "verdict": "Pros: much cheaper than Creative Cloud All Apps, polished native apps, AI fill in Pixelmator Pro. Cons: Apple devices only; no Illustrator-grade vector tool.",
+        "url": "https://www.apple.com/"
+      },
+      {
+        "name": "GIMP + Inkscape",
+        "price_uk": "£0, open source, approx, check current offer",
+        "price_us": "$0, open source, approx, check current offer",
+        "billing": "Free forever, no account needed",
+        "best_for": "Budget users and Linux users who want free photo editing (GIMP) and vector work (Inkscape)",
+        "verdict": "Pros: completely free, cross-platform, large plugin community. Cons: interfaces feel dated; PSD support is partial.",
+        "url": "https://www.gimp.org/"
+      }
+    ]
+  },
+  {
+    "slug": "quickbooks-alternatives",
+    "title": "QuickBooks alternatives for UK & US small businesses",
+    "target_tool": "QuickBooks Online (regular price rises; many users on discounted intro pricing)",
+    "buyer_question": "Which accounting software is cheaper than QuickBooks for a sole trader or small business, and still handles Making Tax Digital (UK) or US tax?",
+    "summary": "Compares five QuickBooks Online alternatives on price, Making Tax Digital (MTD) support in the UK, and bank feeds. How to switch: export your chart of accounts, customers, suppliers and open invoices from QuickBooks, pick a switch date (ideally the start of a VAT quarter or financial year), import opening balances into the new tool or use its migration service, run both for one month, then cancel. Prices approx, check current offer.",
+    "updated": "2026-11-02",
+    "options": [
+      {
+        "name": "FreeAgent",
+        "price_uk": "£0 with a NatWest, RBS, Ulster or Mettle business account; otherwise from ~£19/mo, approx, check current offer",
+        "price_us": "UK-focused, not sold in the US",
+        "billing": "Free while you keep an eligible business bank account; otherwise monthly",
+        "best_for": "UK sole traders and small limited companies, especially if you already bank with NatWest, RBS, Ulster or Mettle",
+        "verdict": "Best UK value. Pros: free with eligible bank accounts, HMRC-recognised for MTD VAT and MTD Income Tax, Self Assessment filing built in. Cons: UK only; less suited to stock-heavy businesses.",
+        "url": "https://www.freeagent.com/"
+      },
+      {
+        "name": "Xero",
+        "price_uk": "From ~£16/mo (Ignite), approx, check current offer",
+        "price_us": "From ~$25/mo (Early), approx, check current offer",
+        "billing": "Monthly; frequent intro discounts; tiers by number of invoices and features",
+        "best_for": "Growing UK or US businesses that want the biggest app marketplace and accountant support",
+        "verdict": "Pros: huge integrations list, MTD compliant, most accountants know it. Cons: entry plan caps invoices; payroll and multi-currency cost extra.",
+        "url": "https://www.xero.com/"
+      },
+      {
+        "name": "Zoho Books",
+        "price_uk": "Free plan for small businesses under a revenue limit; paid from ~£10/mo, approx, check current offer",
+        "price_us": "Free plan under a revenue limit; paid from ~$15/mo, approx, check current offer",
+        "billing": "Free tier; paid monthly or yearly",
+        "best_for": "Very small businesses that want a free plan and are happy in the Zoho ecosystem",
+        "verdict": "Pros: genuine free tier, MTD VAT support in the UK, good invoicing. Cons: free plan has user and feature limits; best value only if you use other Zoho apps.",
+        "url": "https://www.zoho.com/books/"
+      },
+      {
+        "name": "Sage Accounting",
+        "price_uk": "From ~£15/mo, approx, check current offer",
+        "price_us": "From ~$10/mo, approx, check current offer",
+        "billing": "Monthly; regular intro discounts",
+        "best_for": "UK businesses that want a long-established British vendor with phone support",
+        "verdict": "Pros: MTD compliant, solid UK support, easy upgrade to payroll. Cons: interface less modern; intro discounts end.",
+        "url": "https://www.sage.com/en-gb/sage-business-cloud/accounting/"
+      },
+      {
+        "name": "Wave",
+        "price_uk": "Not aimed at UK users",
+        "price_us": "$0 Starter; Pro ~$16/mo, approx, check current offer",
+        "billing": "Free starter plan; pay per transaction for card payments",
+        "best_for": "US freelancers and side hustles who want free invoicing and bookkeeping",
+        "verdict": "Pros: free core accounting and invoicing in the US. Cons: US/Canada focus; bank feeds and receipts need Pro.",
+        "url": "https://www.waveapps.com/"
+      }
+    ]
+  },
+  {
+    "slug": "best-vpn-for-android",
+    "title": "Best VPN for Android (UK & US, 2026)",
+    "target_tool": "Android phone / tablet users choosing a VPN app (or replacing free adware VPNs)",
+    "buyer_question": "Which VPN app works best on Android for public Wi-Fi, streaming and privacy — and is there a Black Friday deal worth grabbing before 24 Nov?",
+    "summary": "Black Friday deal live until 24 Nov on NordVPN via the usual tracking link (landing page shows the current %). Compares five VPN apps that work well on Android on price, renewal cost, audited no-logs claims and Android-specific features like Always-on VPN and split tunnelling. Free Play Store VPNs often sell your data or cap speed, so a paid app with a 30-day money-back window is safer for travel and cafe Wi-Fi. How to set up: install from the Play Store or the vendor site, allow the VPN permission, turn on Always-on VPN + kill switch, and buy on the refund window so you can test streaming first. Prices approx and move during the sale — check the live offer.",
+    "updated": "2026-11-09",
+    "options": [
+      {
+        "name": "NordVPN",
+        "price_uk": "Black Friday deal live until 24 Nov — check live 2-yr intro on site (renews higher)",
+        "price_us": "Black Friday deal live until 24 Nov — check live 2-yr intro on site (renews higher)",
+        "billing": "Basic / Plus / Complete tiers; long intro then higher renewal; 30-day money-back; Play Store or website. BF window 10–24 Nov (then a short post-BF Basic week per partner note).",
+        "best_for": "Android users who want a polished app with Always-on VPN, split tunnelling, fast NordLynx speeds and reliable streaming",
+        "verdict": "Strong all-rounder on Android, and Black Friday deal live until 24 Nov (landing page updates automatically). Pros: clean Play Store app, NordLynx is fast on mobile data, Always-on VPN + kill switch, Threat Protection Lite, independently audited no-logs, Plus adds NordPass. Cons: no free tier; renewal is higher than the intro deal; upsells in the app.",
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      },
+      {
+        "name": "Proton VPN",
+        "price_uk": "£0 free plan; Plus ~£2.39–2.79/mo on 2-yr plan, approx, check current offer",
+        "price_us": "$0 free plan; Plus ~$4.49/mo on 2-yr plan, approx, check current offer",
+        "billing": "Unlimited-data free tier (1 device); Plus monthly, 1-yr or 2-yr; 30-day money-back",
+        "best_for": "Anyone who wants to try a VPN on Android free first, with no data cap",
+        "verdict": "Best free option. Pros: unlimited-data free plan, Swiss privacy, open-source audited apps, Always-on VPN on Android. Cons: free tier is 1 device with limited servers and isn't for streaming; paid features need Plus.",
+        "url": "https://protonvpn.com/"
+      },
+      {
+        "name": "Surfshark",
+        "price_uk": "From ~£1.79–2.19/mo on long plan, approx, check current offer",
+        "price_us": "From ~$2.19–3.49/mo on long plan, approx, check current offer",
+        "billing": "Monthly, 12-mo or 24-mo intro then higher renewal; 30-day money-back; unlimited devices",
+        "best_for": "Households with lots of Android phones, tablets and TVs on one plan",
+        "verdict": "Pros: unlimited devices, CleanWeb ad/tracker blocking, competitive intro price. Cons: renewal jump; smaller brand than Nord/Express; streaming reliability varies by title.",
+        "url": "https://surfshark.com/"
+      },
+      {
+        "name": "Mullvad",
+        "price_uk": "Flat ~£4–5/mo (about €5), no long-plan discount",
+        "price_us": "Flat ~$5–6/mo, no long-plan discount",
+        "billing": "Pay by account number; cash, card or crypto; same price every month; short money-back window",
+        "best_for": "Privacy purists who hate account emails and marketing upsells",
+        "verdict": "Pros: no email required, flat transparent price, strong privacy stance, Android app with WireGuard. Cons: no streaming focus; no multi-year discount; fewer hand-holding features.",
+        "url": "https://mullvad.net/"
+      },
+      {
+        "name": "ExpressVPN",
+        "price_uk": "From ~£2.19–6/mo depending on term, approx, check current offer",
+        "price_us": "From ~$3.49–12.99/mo depending on term, approx, check current offer",
+        "billing": "Monthly or multi-year; 30-day money-back for new users; Lightway protocol",
+        "best_for": "People who want a simple, reliable Android app and don't mind paying more",
+        "verdict": "Pros: polished Android app, strong streaming reputation, split tunnelling. Cons: usually pricier than Nord or Surfshark at renewal; 10-device cap on Basic.",
+        "url": "https://www.expressvpn.com/"
+      }
+    ]
+  },
+  {
+    "slug": "grammarly-alternatives",
+    "title": "Cheaper alternatives to Grammarly (UK & US, 2026)",
+    "target_tool": "Grammarly Free / Pro / Business (Pro often ~$12/mo annual or ~$30/mo monthly)",
+    "buyer_question": "What should I switch to from Grammarly to keep grammar and rewrite help without the Pro price?",
+    "summary": "Compares five writing assistants on price, free-tier usefulness and privacy. Grammarly Pro is strong for everyday email and docs, but annual and monthly prices add up, and some writers prefer tools with a lifetime option or better multilingual support. How to switch: export or copy your custom dictionary and style preferences, install the browser extension of the new tool, run both side by side for a week on real emails, then cancel Grammarly before renewal. Prices approx, check current offer.",
+    "updated": "2026-11-09",
+    "options": [
+      {
+        "name": "LanguageTool",
+        "price_uk": "£0 Basic; Premium from ~£5–6/mo on annual or 2-yr billing, approx, check current offer",
+        "price_us": "$0 Basic; Premium from ~$4.99–5.83/mo on annual or 2-yr billing, approx, check current offer",
+        "billing": "Free forever Basic; Premium monthly, quarterly, annual or 2-year",
+        "best_for": "Multilingual writers and anyone who wants a strong free grammar checker",
+        "verdict": "Best free-first switch. Pros: generous free tier, 30+ languages, privacy-friendly options, browser and desktop apps. Cons: English style suggestions can feel lighter than Grammarly Pro; Premium needed for full rewrites and longer docs.",
+        "url": "https://languagetool.org/"
+      },
+      {
+        "name": "ProWritingAid",
+        "price_uk": "Free limited; Premium ~$10/mo billed yearly or ~$399 lifetime (USD pricing), approx, check current offer",
+        "price_us": "Free limited; Premium $10/mo billed yearly ($120/yr) or $399 lifetime; monthly ~$30",
+        "billing": "Free tier; Premium monthly / annual / lifetime; Premium Pro tier for workshops",
+        "best_for": "Long-form writers, bloggers and anyone who wants manuscript-style reports",
+        "verdict": "Best for books and long docs. Pros: 25+ reports, lifetime licence option Grammarly lacks, strong style analysis. Cons: free tier is capped at short checks; UI is denser than Grammarly.",
+        "url": "https://prowritingaid.com/"
+      },
+      {
+        "name": "Wordtune",
+        "price_uk": "Free Basic; Advanced/Unlimited from ~$4.89–6.99/mo billed annually, approx, check current offer",
+        "price_us": "$0 Basic; Advanced ~$4.89/mo annual; Unlimited ~$6.99/mo annual",
+        "billing": "Free with daily rewrite caps; paid monthly or annual",
+        "best_for": "People who want AI sentence rewrites and tone changes more than red-underline grammar",
+        "verdict": "Pros: fast rewrite suggestions, tone controls, cheaper than Grammarly monthly. Cons: weaker as a pure grammar teacher; free rewrite quota is low.",
+        "url": "https://www.wordtune.com/"
+      },
+      {
+        "name": "QuillBot",
+        "price_uk": "Free limited; Premium from ~$8–10/mo annual equivalent, approx, check current offer",
+        "price_us": "Free limited; Premium often ~$8.33/mo billed annually, approx, check current offer",
+        "billing": "Free paraphraser with limits; Premium monthly or annual",
+        "best_for": "Students and writers who paraphrase and summarise a lot",
+        "verdict": "Pros: strong paraphraser, summariser and grammar tools in one; student-friendly. Cons: Premium price moves often; less of a full writing coach than Grammarly Pro.",
+        "url": "https://quillbot.com/"
+      },
+      {
+        "name": "Hemingway Editor",
+        "price_uk": "Free web app; Desktop one-time purchase or Hemingway Editor Plus subscription, approx, check current offer",
+        "price_us": "Free web; Desktop ~$19.99 one-time historically; Plus from ~$8/mo annual, approx, check current offer",
+        "billing": "Free web highlighter; optional desktop / Plus subscription",
+        "best_for": "Clarity and readability passes when you already know your grammar basics",
+        "verdict": "Pros: simple readability grades, optional one-time desktop buy. Cons: not a full Grammarly replacement for tone, plagiarism or team style guides.",
+        "url": "https://hemingwayapp.com/"
+      }
+    ]
+  },
+  {
+    "slug": "notion-alternatives",
+    "title": "Cheaper alternatives to Notion (UK & US, 2026)",
+    "target_tool": "Notion Free / Plus / Business (Plus often ~$10/user/mo when billed annually)",
+    "buyer_question": "What should I switch to from Notion if I want notes, wikis and tasks without the Plus price or cloud lock-in?",
+    "summary": "Compares five Notion alternatives on price, offline use and how hard migration is. Notion Plus adds up once a team grows, and some people want local-first files or a simpler wiki. How to switch: export Notion pages as Markdown/CSV, pick a cutover weekend, import into the new tool (or keep Markdown in a folder), run both for two weeks, then cancel Plus before renewal. Prices approx, check current offer.",
+    "updated": "2026-11-09",
+    "options": [
+      {
+        "name": "Obsidian",
+        "price_uk": "£0 for local vaults; optional Sync/Publish paid add-ons, approx, check current offer",
+        "price_us": "$0 local; Sync and Publish are optional paid add-ons",
+        "billing": "App free forever; pay only if you want official Sync or Publish hosting",
+        "best_for": "People who want Markdown notes on their own disk with plugins and no per-seat fee",
+        "verdict": "Best local-first switch. Pros: free core app, works offline, huge plugin community, your files stay as Markdown. Cons: Sync costs extra; databases/views need community plugins rather than Notion-native boards.",
+        "url": "https://obsidian.md/"
+      },
+      {
+        "name": "Anytype",
+        "price_uk": "Free personal plan with local-first sync; paid tiers for more storage/collaborators, approx, check current offer",
+        "price_us": "Free personal; paid plans for teams/storage, approx, check current offer",
+        "billing": "Local-first; free tier then paid for higher limits",
+        "best_for": "Notion fans who want objects/relations without a pure cloud SaaS feel",
+        "verdict": "Pros: Notion-like objects, local-first, attractive free tier. Cons: still maturing; migration from Notion is manual; fewer integrations than Notion.",
+        "url": "https://anytype.io/"
+      },
+      {
+        "name": "AppFlowy",
+        "price_uk": "Free open-source app; optional cloud, approx, check current offer",
+        "price_us": "$0 open-source; optional paid cloud",
+        "billing": "Self-host or use free/paid cloud",
+        "best_for": "Teams that want an open-source Notion-style workspace they can self-host",
+        "verdict": "Pros: open source, Notion-like docs and boards, can self-host. Cons: polish and mobile apps lag Notion; cloud offering still evolving.",
+        "url": "https://appflowy.io/"
+      },
+      {
+        "name": "Capacities",
+        "price_uk": "Free tier; Pro from a monthly/annual fee, approx, check current offer",
+        "price_us": "Free tier; Pro paid monthly/annual, approx, check current offer",
+        "billing": "Free with limits; Pro unlocks more object types and AI",
+        "best_for": "Object-based thinking (people, projects, notes) without building Notion databases from scratch",
+        "verdict": "Pros: delightful object model, daily notes, good for personal knowledge. Cons: less of a team wiki than Notion; Pro needed for power features.",
+        "url": "https://capacities.io/"
+      },
+      {
+        "name": "AFFiNE",
+        "price_uk": "Free local/self-host; cloud plans paid, approx, check current offer",
+        "price_us": "$0 local; cloud tiers paid",
+        "billing": "Local-first open source; optional paid cloud",
+        "best_for": "People who want docs + whiteboards + databases in one local-first app",
+        "verdict": "Pros: docs and edgeless canvas together, open source, local mode. Cons: ecosystem smaller than Notion; collaboration features depend on cloud plan.",
+        "url": "https://affine.pro/"
+      }
+    ]
+  }
 ]
