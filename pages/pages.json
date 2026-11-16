@@ -704,5 +704,183 @@
         "url": "https://affine.pro/"
       }
     ]
+  },
+  {
+    "slug": "best-vpn-for-public-wifi",
+    "title": "Best VPN for public Wi-Fi (UK & US, 2026)",
+    "target_tool": "Anyone using cafe, hotel, airport, train or uni Wi-Fi on a phone or laptop",
+    "buyer_question": "Do I need a VPN on public Wi-Fi, and which one is worth paying for before the Black Friday deals end on 24 Nov?",
+    "summary": "Black Friday deal live until 24 Nov on NordVPN via the usual tracking link (landing page shows the current %). Public Wi-Fi is the most common reason people buy a VPN: open hotspots and fake 'Free_WiFi' networks make it easy to snoop on or redirect traffic. Compares five VPNs on price, renewal cost, kill switch, auto-connect on untrusted networks and audited no-logs claims, plus a password manager for the logins you type on the go. How to set up: install the app, turn on auto-connect for untrusted Wi-Fi and the kill switch, never type banking logins on a hotspot without it, and buy inside the refund window so you can test. Prices approx, check current offer.",
+    "updated": "2026-11-16",
+    "options": [
+      {
+        "name": "NordVPN",
+        "price_uk": "Black Friday deal live until 24 Nov — check live 2-yr intro on site (renews higher)",
+        "price_us": "Black Friday deal live until 24 Nov — check live 2-yr intro on site (renews higher)",
+        "billing": "Basic / Plus / Complete tiers; long intro then higher renewal; 30-day money-back",
+        "best_for": "Travellers and commuters who want auto-connect on untrusted Wi-Fi with a fast, polished app",
+        "verdict": "Top pick for hotspots. Pros: auto-connect on untrusted networks, kill switch, Threat Protection blocks dodgy sites and trackers, fast NordLynx, independently audited no-logs. Cons: no free tier; renewal higher than intro; some upsells.",
+        "url": "https://go.nordvpn.net/aff_c?offer_id=15&aff_id=159309&url_id=902",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      },
+      {
+        "name": "Proton VPN",
+        "price_uk": "£0 free plan; Plus on long plans, approx, check current offer",
+        "price_us": "$0 free plan; Plus on long plans, approx, check current offer",
+        "billing": "Unlimited-data free tier (1 device); paid monthly, 1-yr or 2-yr; 30-day money-back",
+        "best_for": "Occasional hotspot users who want a free VPN with no data cap",
+        "verdict": "Best free option. Pros: unlimited free data, open-source audited apps, kill switch. Cons: free tier is 1 device and fewer servers; streaming needs Plus.",
+        "url": "https://protonvpn.com/"
+      },
+      {
+        "name": "Surfshark",
+        "price_uk": "Low intro price on long plans, approx, check current offer",
+        "price_us": "Low intro price on long plans, approx, check current offer",
+        "billing": "Monthly, 12-mo or 24-mo intro then higher renewal; unlimited devices; 30-day money-back",
+        "best_for": "Families covering lots of phones and laptops on one plan",
+        "verdict": "Pros: unlimited devices, auto-connect on Wi-Fi, CleanWeb ad blocking. Cons: renewal jump; speeds vary by server.",
+        "url": "https://surfshark.com/"
+      },
+      {
+        "name": "Mullvad",
+        "price_uk": "Flat about €5/mo, no long-plan discount",
+        "price_us": "Flat about €5/mo (~$5–6), no long-plan discount",
+        "billing": "Account number, no email needed; pay monthly; cash and crypto accepted",
+        "best_for": "Privacy-first users who hate renewal price jumps",
+        "verdict": "Pros: same price forever, no email needed, strong privacy record. Cons: fewer apps extras; not built for streaming.",
+        "url": "https://mullvad.net/"
+      },
+      {
+        "name": "Windscribe",
+        "price_uk": "Free plan with monthly data cap; Pro or build-a-plan, approx, check current offer",
+        "price_us": "Free plan with monthly data cap; Pro or build-a-plan, approx, check current offer",
+        "billing": "Free tier, monthly or annual Pro, or pay per location",
+        "best_for": "Light users who only need a VPN on the odd hotspot",
+        "verdict": "Pros: generous free tier, auto-connect rules per network, cheap build-a-plan. Cons: free data cap; smaller company.",
+        "url": "https://windscribe.com/"
+      },
+      {
+        "name": "NordPass (password manager)",
+        "price_uk": "Free plan; Premium on long plans, approx, check current offer",
+        "price_us": "Free plan; Premium on long plans, approx, check current offer",
+        "billing": "Free tier; Premium/Family yearly; 30-day money-back on paid",
+        "best_for": "Anyone typing logins on the move who wants strong unique passwords and breach alerts",
+        "verdict": "A VPN protects the connection; a password manager protects the logins. Pros: autofill, breach monitoring, passkeys. Cons: best features need Premium.",
+        "url": "https://go.nordpass.io/aff_c?offer_id=488&aff_id=159309&url_id=9356",
+        "rel": "sponsored nofollow noopener",
+        "target": "_blank"
+      }
+    ]
+  },
+  {
+    "slug": "spotify-premium-alternatives",
+    "title": "Cheaper alternatives to Spotify Premium (UK & US, 2026)",
+    "target_tool": "Spotify Premium Individual / Duo / Family (Individual roughly £12.99 UK / $11.99+ US a month, approx, check current offer)",
+    "buyer_question": "Spotify Premium keeps going up. What can I switch to without losing my playlists?",
+    "summary": "Compares five Spotify Premium alternatives on price, family plans, audio quality and how hard it is to move playlists. Price rises and in-app changes are pushing people to look around. How to switch: use a playlist transfer tool (e.g. TuneMyMusic or Soundiiz) to copy playlists, try the new service on its free trial, then cancel Spotify before your billing date (Spotify Free keeps your playlists). Check student, family and bundle deals — they often beat Individual. Prices approx, check current offer.",
+    "updated": "2026-11-16",
+    "options": [
+      {
+        "name": "YouTube Music Premium",
+        "price_uk": "Usually a bit under Spotify Individual, approx, check current offer",
+        "price_us": "Usually around Spotify Individual or less, approx, check current offer",
+        "billing": "Monthly; family and student plans; free ad-supported tier; bundled in YouTube Premium",
+        "best_for": "People who already watch YouTube and want ad-free video too",
+        "verdict": "Pros: huge catalogue incl. live sets and covers, free tier, YouTube Premium bundle. Cons: app and recommendations feel less polished than Spotify.",
+        "url": "https://music.youtube.com/"
+      },
+      {
+        "name": "Apple Music",
+        "price_uk": "Individual roughly in line with Spotify, approx, check current offer",
+        "price_us": "Individual roughly in line with Spotify, approx, check current offer",
+        "billing": "Monthly; student, family and Apple One bundles; works on Android too",
+        "best_for": "iPhone users and anyone already paying for iCloud+ (Apple One bundle)",
+        "verdict": "Pros: lossless and Dolby Atmos at no extra cost, lyrics, good Apple One value. Cons: no free tier; best on Apple devices.",
+        "url": "https://www.apple.com/apple-music/"
+      },
+      {
+        "name": "Amazon Music Unlimited",
+        "price_uk": "Cheaper for Prime members, approx, check current offer",
+        "price_us": "Cheaper for Prime members, approx, check current offer",
+        "billing": "Monthly or annual; Prime discount; family plan; Prime includes a limited catalogue free",
+        "best_for": "Prime members and Alexa/Echo households",
+        "verdict": "Pros: Prime discount, HD/lossless included, Alexa integration. Cons: weaker playlists and discovery.",
+        "url": "https://www.amazon.co.uk/music/unlimited"
+      },
+      {
+        "name": "Deezer",
+        "price_uk": "Premium similar to or below Spotify, approx, check current offer",
+        "price_us": "Premium similar to or below Spotify, approx, check current offer",
+        "billing": "Monthly; free ad-supported tier; Duo, Family, Student",
+        "best_for": "Users who want a Spotify-like app with easy playlist import",
+        "verdict": "Pros: built-in playlist import, Flow radio, lossless on paid plans. Cons: smaller user base, fewer podcasts.",
+        "url": "https://www.deezer.com/"
+      },
+      {
+        "name": "Spotify Free (stay, but downgrade)",
+        "price_uk": "£0",
+        "price_us": "$0",
+        "billing": "Ad-supported; keep all playlists",
+        "best_for": "Light listeners who mainly use shuffle or play music at a desk",
+        "verdict": "Pros: zero cost, nothing to migrate. Cons: ads, limited skips and on-demand on mobile, no offline downloads.",
+        "url": "https://www.spotify.com/"
+      }
+    ]
+  },
+  {
+    "slug": "zoom-alternatives",
+    "title": "Cheaper alternatives to Zoom Pro (UK & US, 2026)",
+    "target_tool": "Zoom Workplace Pro / Business (Pro roughly £12–13 / $13–16 per user a month, approx, check current offer)",
+    "buyer_question": "Do I still need to pay for Zoom, or is there a free or cheaper way to run longer video calls?",
+    "summary": "Compares five Zoom alternatives on free-plan time limits, price per user and features like recording and transcripts. Many people pay for Zoom only to beat the 40-minute free limit, and a free or already-paid tool may do the job. How to switch: check if you already have Google Workspace or Microsoft 365 (Meet or Teams is then included), move recurring invites over, test with one meeting, then turn off Zoom auto-renew before the billing date. Prices approx, check current offer.",
+    "updated": "2026-11-16",
+    "options": [
+      {
+        "name": "Google Meet",
+        "price_uk": "Free (1:1 long calls, group calls time-limited); included in Google Workspace, approx, check current offer",
+        "price_us": "Free tier; included in Google Workspace, approx, check current offer",
+        "billing": "Free with a Google account; longer group calls and recording via Workspace",
+        "best_for": "People and small teams already on Gmail or Google Workspace",
+        "verdict": "Pros: runs in the browser, no install, included in Workspace. Cons: free group calls are time-limited; recording needs a paid plan.",
+        "url": "https://meet.google.com/"
+      },
+      {
+        "name": "Microsoft Teams",
+        "price_uk": "Free plan with time and size limits; included in many Microsoft 365 plans, approx, check current offer",
+        "price_us": "Free plan; included in many Microsoft 365 plans, approx, check current offer",
+        "billing": "Free personal tier; Teams Essentials or Microsoft 365 business plans",
+        "best_for": "Teams already paying for Microsoft 365",
+        "verdict": "Pros: chat, files and meetings in one place, often already paid for. Cons: heavier app; free tier limits.",
+        "url": "https://www.microsoft.com/microsoft-teams/"
+      },
+      {
+        "name": "Jitsi Meet",
+        "price_uk": "£0",
+        "price_us": "$0",
+        "billing": "Free and open source; no account needed; can self-host",
+        "best_for": "Anyone who wants free calls with no sign-up and no fixed time limit",
+        "verdict": "Pros: free, open source, link-and-go in the browser. Cons: quality can drop on big calls; fewer admin features.",
+        "url": "https://meet.jit.si/"
+      },
+      {
+        "name": "Whereby",
+        "price_uk": "Free tier; paid plans for longer/branded rooms, approx, check current offer",
+        "price_us": "Free tier; paid plans, approx, check current offer",
+        "billing": "Free tier; monthly or annual paid plans",
+        "best_for": "Freelancers, tutors and coaches who want a fixed room link for clients",
+        "verdict": "Pros: permanent room URL, nothing for guests to install. Cons: free tier limits; costs more than Meet for teams.",
+        "url": "https://whereby.com/"
+      },
+      {
+        "name": "Webex",
+        "price_uk": "Free plan with time limit; paid Meet plans, approx, check current offer",
+        "price_us": "Free plan; paid Meet plans, approx, check current offer",
+        "billing": "Free tier; monthly or annual per-host plans",
+        "best_for": "Users who want Zoom-like features (breakouts, transcripts) on a free tier",
+        "verdict": "Pros: solid free plan, noise removal, transcripts. Cons: busier interface; upsells.",
+        "url": "https://www.webex.com/"
+      }
+    ]
   }
 ]
